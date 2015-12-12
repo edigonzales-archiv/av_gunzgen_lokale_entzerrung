@@ -1,0 +1,297 @@
+|=====================================================================================================|
+|LeicaQualityProtocol Lite V1.20 für Captivate              erzeugt am: Datum 10.12.2015 Zeit 12:57:41|
+|Leica Geosystems GmbH Vertrieb                                                                       |
+|Triebstraße 14                                                                                       |
+|80993 München                                                                                        |
+|=====================================================================================================|
+|Projekt-/Instrument-/Koordinatensystem-Informationen                                                 |
+|-----------------------------------------------------------------------------------------------------|
+|Projekt-Nr. : gunzgen_ts3_mess Koordinatensys: swipos LV95LN02       Restkl.Vertlg.: Keine Verteilung|
+|Bearbeiter  : li               Transformation: LV95 Parameter        Koordsys. Typ : Klassisch 3D    |
+|Beschreibung:                  Projektion    : Swiss95               Mittelmodus   : Mittel          |
+|Beschreibung:                  Ellipsoid     : Bessel                Mittelmethode : Gewichtet       |
+|Instr. Typ  : CS20             Geoidmodell   : Geoid2004_03+         Toleranz Lage : 0.050           |
+|Instr. Nr.  : 2470175          LSKS Modell   :                       Toleranz Höhe : 0.075           |
+|FW-Version  : 1.21                                                                                   |
+|-----------------------------------------------------------------------------------------------------|
+|Proj. Typ   : Fest definiert                                                                         |
+|-----------------------------------------------------------------------------------------------------|
+|Trafo Typ   : 3D Helmert                Ursprung        X0        0.000 Y0       0.000 Z0       0.000|
+|Trafo Modell: Bursa-Wolf                Verschiebungen  dX     -674.374 dY     -15.056 dZ    -405.346|
+|Höhenmodus  : Ellipsoidisch             Rotationen(")   Rx      0.00000 Ry     0.00000 Rz     0.00000|
+|                                        Maßstab          M     1.000000                              |
+|=====================================================================================================|
+|                                    Protokoll über GNSS-Messungen                                    |
+|=====================================================================================================|
+|Programm Messen V1.21                                                  Datum 10.12.2015 Zeit 09:07:54|
+|-----------------------------------------------------------------------------------------------------|
+|Pt GS0001           Cd                  Kl MESS/Phase    O  2627144.239  N 1239766.650  H     435.105|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat      8 GLO-Sat      4|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        2.5 PDOP        2.1 2D KQ    0.006 1D KQ    0.011|
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 09:08:46|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 11083500         Cd                  Kl ----/--- Soll O  2627144.248  N 1239766.650  H            |
+|Pt Stkd11083500     Cd                  Kl MESS/Phase    O  2627144.240  N 1239766.651  H     435.109|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat      8 GLO-Sat      4|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        2.5 PDOP        2.1 2D KQ    0.006 1D KQ    0.013|
+|                                        dr        0.008 dO        0.008 dN      -0.001 dH            |
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 09:24:46|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005017          Cd                  Kl MESS/GNS Soll O  2629448.024  N 1241607.706  H            |
+|Pt 6005017          Cd                  Kl MESS/Phase    O  2629448.092  N 1241607.642  H     426.735|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        1.6 PDOP        1.4 2D KQ    0.006 1D KQ    0.013|
+|                                        dr        0.093 dO       -0.068 dN       0.064 dH            |
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 09:29:34|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629448241609     Cd                  Kl MESS/GNS Soll O  2629448.966  N 1241610.252  H            |
+|Pt 629448241609     Cd                  Kl MESS/Phase    O  2629449.031  N 1241610.196  H     426.596|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        1.5 PDOP        1.3 2D KQ    0.006 1D KQ    0.014|
+|                                        dr        0.086 dO       -0.065 dN       0.056 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629437241609     Cd                  Kl MESS/GNS Soll O  2629438.147  N 1241609.278  H            |
+|Pt 629437241609     Cd                  Kl MESS/Phase    O  2629438.182  N 1241609.239  H     426.514|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        1.5 PDOP        1.3 2D KQ    0.005 1D KQ    0.012|
+|                                        dr        0.052 dO       -0.035 dN       0.039 dH            |
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 09:39:32|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629429241605     Cd                  Kl MESS/GNS Soll O  2629430.393  N 1241606.147  H            |
+|Pt 629429241605     Cd                  Kl MESS/Phase    O  2629430.436  N 1241606.098  H     427.058|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        1.4 PDOP        1.3 2D KQ    0.006 1D KQ    0.013|
+|                                        dr        0.065 dO       -0.043 dN       0.049 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005535          Cd                  Kl MESS/GNS Soll O  2628952.728  N 1241643.215  H            |
+|Pt 6005535          Cd                  Kl MESS/Phase    O  2628952.732  N 1241643.213  H     428.956|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       3 GPS-Sat      8 GLO-Sat      5|
+|Startzeit 09:NaN Dauer 00:00:02       GDOP        2.1 PDOP        1.7 2D KQ    0.012 1D KQ    0.020|
+|                                        dr        0.004 dO       -0.004 dN       0.002 dH            |
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 10:14:48|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005532          Cd                  Kl MESS/GNS Soll O  2629389.443  N 1241805.058  H            |
+|Pt 6005532          Cd                  Kl MESS/Phase    O  2629389.450  N 1241805.050  H     427.692|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.4 PDOP        1.3 2D KQ    0.009 1D KQ    0.014|
+|                                        dr        0.011 dO       -0.007 dN       0.008 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005542          Cd                  Kl MESS/GNS Soll O  2629802.756  N 1241675.809  H            |
+|Pt 6005542          Cd                  Kl MESS/Phase    O  2629802.769  N 1241675.807  H     425.755|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.4 PDOP        1.3 2D KQ    0.008 1D KQ    0.011|
+|                                        dr        0.013 dO       -0.013 dN       0.002 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005014          Cd                  Kl MESS/GNS Soll O  2629554.364  N 1241381.831  H            |
+|Pt 6005014          Cd                  Kl MESS/Phase    O  2629554.334  N 1241381.781  H     426.922|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.5 PDOP        1.3 2D KQ    0.009 1D KQ    0.011|
+|                                        dr        0.058 dO        0.030 dN       0.050 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005521          Cd                  Kl MESS/GNS Soll O  2629230.805  N 1241329.177  H            |
+|Pt 6005521          Cd                  Kl MESS/Phase    O  2629230.793  N 1241329.179  H     427.964|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.4 PDOP        1.2 2D KQ    0.008 1D KQ    0.011|
+|                                        dr        0.012 dO        0.012 dN      -0.002 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629535241119     Cd                  Kl MESS/GNS Soll O  2629536.207  N 1241119.765  H            |
+|Pt 629535241119     Cd                  Kl MESS/Phase    O  2629536.193  N 1241119.738  H     427.307|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      5|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        2.0 PDOP        1.7 2D KQ    0.013 1D KQ    0.017|
+|                                        dr        0.030 dO        0.014 dN       0.027 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005253          Cd                  Kl MESS/GNS Soll O  2629517.873  N 1241101.946  H            |
+|Pt 6005253          Cd                  Kl MESS/Phase    O  2629517.833  N 1241101.915  H     427.087|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.2 PDOP        1.0 2D KQ    0.008 1D KQ    0.012|
+|                                        dr        0.051 dO        0.040 dN       0.031 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005522          Cd                  Kl MITL/--- Soll O  2629956.272  N 1241333.704  H            |
+|Pt 6005522          Cd                  Kl MESS/Phase    O  2629956.246  N 1241333.690  H     426.232|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      5|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        1.7 PDOP        1.5 2D KQ    0.018 1D KQ    0.021|
+|                                        dr        0.030 dO        0.026 dN       0.014 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005522          Cd                  Kl MITL/--- Soll O  2629956.272  N 1241333.704  H            |
+|Pt 6005522          Cd                  Kl MESS/Phase    O  2629956.237  N 1241333.705  H     426.249|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      5|
+|Startzeit 10:NaN Dauer 00:00:07       GDOP        2.0 PDOP        1.7 2D KQ    0.021 1D KQ    0.028|
+|                                        dr        0.035 dO        0.035 dN      -0.001 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005087          Cd                  Kl MESS/GNS Soll O  2630170.840  N 1241105.203  H            |
+|Pt 6005087          Cd                  Kl MESS/Phase    O  2630170.835  N 1241105.222  H     426.310|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      5|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.7 PDOP        1.4 2D KQ    0.009 1D KQ    0.013|
+|                                        dr        0.020 dO        0.005 dN      -0.019 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005524          Cd                  Kl MESS/GNS Soll O  2630490.167  N 1240886.791  H            |
+|Pt 6005524          Cd                  Kl MESS/Phase    O  2630490.142  N 1240886.780  H     439.326|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      5|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.7 PDOP        1.4 2D KQ    0.010 1D KQ    0.016|
+|                                        dr        0.027 dO        0.025 dN       0.011 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005096          Cd                  Kl MESS/GNS Soll O  2630513.787  N 1240729.303  H            |
+|Pt 6005096          Cd                  Kl MESS/Phase    O  2630513.750  N 1240729.326  H     440.869|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      5|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.6 PDOP        1.4 2D KQ    0.009 1D KQ    0.012|
+|                                        dr        0.044 dO        0.037 dN      -0.023 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005525          Cd                  Kl MESS/GNS Soll O  2630792.013  N 1240317.341  H            |
+|Pt 6005525          Cd                  Kl MESS/Phase    O  2630791.978  N 1240317.353  H     452.087|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      5|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.5 PDOP        1.3 2D KQ    0.014 1D KQ    0.020|
+|                                        dr        0.037 dO        0.035 dN      -0.012 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 11085480         Cd                  Kl MESS/GNS Soll O  2630908.873  N 1240356.931  H            |
+|Pt 11085480         Cd                  Kl MESS/Phase    O  2630908.878  N 1240356.934  H     450.878|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.3 PDOP        1.1 2D KQ    0.009 1D KQ    0.011|
+|                                        dr        0.006 dO       -0.005 dN      -0.003 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005478          Cd                  Kl MESS/GNS Soll O  2631000.331  N 1240056.437  H            |
+|Pt 6005478          Cd                  Kl MESS/Phase    O  2631000.290  N 1240056.443  H     433.214|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      5|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        2.3 PDOP        1.9 2D KQ    0.009 1D KQ    0.013|
+|                                        dr        0.041 dO        0.041 dN      -0.006 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630689239656     Cd                  Kl MESS/GNS Soll O  2630689.926  N 1239656.445  H            |
+|Pt 630689239656     Cd                  Kl MESS/Phase    O  2630689.853  N 1239656.499  H     425.038|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.3 PDOP        1.1 2D KQ    0.011 1D KQ    0.015|
+|                                        dr        0.091 dO        0.073 dN      -0.054 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630678239647     Cd                  Kl MESS/GNS Soll O  2630678.878  N 1239648.181  H            |
+|Pt 630678239647     Cd                  Kl MESS/Phase    O  2630678.816  N 1239648.196  H     425.123|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     11 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.1 PDOP        1.0 2D KQ    0.011 1D KQ    0.014|
+|                                        dr        0.064 dO        0.062 dN      -0.015 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005414          Cd                  Kl MESS/GNS Soll O  2630525.588  N 1239565.248  H            |
+|Pt 6005414          Cd                  Kl MESS/Phase    O  2630525.542  N 1239565.288  H     426.056|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.5 PDOP        1.3 2D KQ    0.012 1D KQ    0.016|
+|                                        dr        0.061 dO        0.046 dN      -0.040 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630448239632     Cd                  Kl MESS/GNS Soll O  2630448.520  N 1239632.370  H            |
+|Pt 630448239632     Cd                  Kl MESS/Phase    O  2630448.528  N 1239632.349  H     427.661|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.5 PDOP        1.3 2D KQ    0.010 1D KQ    0.014|
+|                                        dr        0.022 dO       -0.008 dN       0.021 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630457239633     Cd                  Kl MESS/GNS Soll O  2630457.950  N 1239633.780  H            |
+|Pt 630457239633     Cd                  Kl MESS/Phase    O  2630457.998  N 1239633.869  H     427.739|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      6 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        2.1 PDOP        1.7 2D KQ    0.011 1D KQ    0.018|
+|                                        dr        0.101 dO       -0.048 dN      -0.089 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630256239784     Cd                  Kl MESS/GNS Soll O  2630257.294  N 1239785.174  H            |
+|Pt 630256239784     Cd                  Kl MESS/Phase    O  2630257.256  N 1239785.160  H     426.969|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      3|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        2.8 PDOP        2.3 2D KQ    0.033 1D KQ    0.035|
+|                                        dr        0.040 dO        0.038 dN       0.014 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005134          Cd                  Kl MESS/GNS Soll O  2629928.531  N 1239567.962  H            |
+|Pt 6005134          Cd                  Kl MESS/Phase    O  2629928.472  N 1239568.031  H     429.108|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      7|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.2 PDOP        1.0 2D KQ    0.009 1D KQ    0.012|
+|                                        dr        0.091 dO        0.059 dN      -0.069 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005282          Cd                  Kl MESS/GNS Soll O  2629890.306  N 1239757.606  H            |
+|Pt 6005282          Cd                  Kl MESS/Phase    O  2629890.321  N 1239757.627  H     428.640|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      7|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        1.2 PDOP        1.1 2D KQ    0.011 1D KQ    0.015|
+|                                        dr        0.026 dO       -0.015 dN      -0.021 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005397          Cd                  Kl MESS/GNS Soll O  2629774.603  N 1240036.045  H            |
+|Pt 6005397          Cd                  Kl MESS/Phase    O  2629774.664  N 1240036.106  H     435.389|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      4|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        3.0 PDOP        2.4 2D KQ    0.019 1D KQ    0.033|
+|                                        dr        0.086 dO       -0.061 dN      -0.061 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005398          Cd                  Kl MESS/GNS Soll O  2629683.641  N 1240050.908  H            |
+|Pt 6005398          Cd                  Kl MESS/Phase    O  2629683.705  N 1240050.974  H     433.353|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      6|
+|Startzeit 11:NaN Dauer 00:00:07       GDOP        2.0 PDOP        1.7 2D KQ    0.012 1D KQ    0.020|
+|                                        dr        0.092 dO       -0.064 dN      -0.066 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 11084590         Cd                  Kl MESS/GNS Soll O  2629739.370  N 1238666.897  H            |
+|Pt 11084590         Cd                  Kl MESS/Phase    O  2629739.357  N 1238666.893  H     428.394|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      8|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.4 PDOP        1.2 2D KQ    0.007 1D KQ    0.011|
+|                                        dr        0.014 dO        0.013 dN       0.004 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629369240140     Cd                  Kl MESS/GNS Soll O  2629370.189  N 1240140.905  H            |
+|Pt 629369240140     Cd                  Kl MESS/Phase    O  2629370.301  N 1240140.905  H     437.967|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      8|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.4 PDOP        1.2 2D KQ    0.007 1D KQ    0.012|
+|                                        dr        0.112 dO       -0.112 dN       0.000 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629515240029     Cd                  Kl MESS/GNS Soll O  2629515.546  N 1240029.392  H            |
+|Pt 629515240029     Cd                  Kl MESS/Phase    O  2629515.589  N 1240029.428  H     433.874|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      6|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.9 PDOP        1.6 2D KQ    0.007 1D KQ    0.015|
+|                                        dr        0.056 dO       -0.043 dN      -0.036 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 629516240024     Cd                  Kl MESS/GNS Soll O  2629516.606  N 1240024.822  H            |
+|Pt 629516240024     Cd                  Kl MESS/Phase    O  2629516.626  N 1240024.872  H     433.813|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      6|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.8 PDOP        1.5 2D KQ    0.008 1D KQ    0.016|
+|                                        dr        0.054 dO       -0.020 dN      -0.050 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005082          Cd                  Kl MESS/GNS Soll O  2629533.066  N 1240041.803  H            |
+|Pt 6005082          Cd                  Kl MESS/Phase    O  2629533.090  N 1240041.855  H     434.891|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      7 GLO-Sat      5|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        2.5 PDOP        2.1 2D KQ    0.011 1D KQ    0.023|
+|                                        dr        0.057 dO       -0.024 dN      -0.052 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 630187240439     Cd                  Kl MESS/GNS Soll O  2630187.737  N 1240440.075  H            |
+|Pt 630187240439     Cd                  Kl MESS/Phase    O  2630187.756  N 1240440.112  H     440.244|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      7|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.6 PDOP        1.4 2D KQ    0.008 1D KQ    0.015|
+|                                        dr        0.042 dO       -0.019 dN      -0.037 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005220          Cd                  Kl MESS/GNS Soll O  2630283.457  N 1240484.045  H            |
+|Pt 6005220          Cd                  Kl MESS/Phase    O  2630283.483  N 1240484.058  H     441.175|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      8 GLO-Sat      6|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        2.1 PDOP        1.7 2D KQ    0.008 1D KQ    0.016|
+|                                        dr        0.029 dO       -0.026 dN      -0.013 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005523          Cd                  Kl MESS/GNS Soll O  2629320.672  N 1240677.632  H            |
+|Pt 6005523          Cd                  Kl MESS/Phase    O  2629320.667  N 1240677.641  H     428.700|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      6|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.6 PDOP        1.4 2D KQ    0.009 1D KQ    0.017|
+|                                        dr        0.010 dO        0.005 dN      -0.009 dH            |
+|-----------------------------------------------------------------------------------------------------|
+|Pt 6005061          Cd                  Kl MESS/GNS Soll O  2629278.533  N 1240734.653  H            |
+|Pt 6005061          Cd                  Kl MESS/Phase    O  2629278.596  N 1240734.701  H     428.635|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat      9 GLO-Sat      6|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.6 PDOP        1.4 2D KQ    0.006 1D KQ    0.013|
+|                                        dr        0.079 dO       -0.063 dN      -0.048 dH            |
+|=====================================================================================================|
+|Programm Messen V1.21                                                  Datum 10.12.2015 Zeit 12:47:14|
+|-----------------------------------------------------------------------------------------------------|
+|Pt GS0002           Cd 1                Kl MESS/Phase    O  2629289.132  N 1241230.869  H     427.714|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       2 GPS-Sat     10 GLO-Sat      7|
+|Startzeit 12:NaN Dauer 00:00:01       GDOP        1.3 PDOP        1.2 2D KQ    0.008 1D KQ    0.015|
+|=====================================================================================================|
+|Programm Absteckung Punkte V1.21                                       Datum 10.12.2015 Zeit 12:50:25|
+|-----------------------------------------------------------------------------------------------------|
+|Pt 11084040         Cd                  Kl MESS/GNS Soll O  2629290.595  N 1241230.229  H            |
+|Pt 11084040         Cd                  Kl MESS/Phase    O  2629290.581  N 1241230.228  H     427.626|
+|Mountpoint VRS_GISGEO_LV95LN02          AH        2.000 RTK-Pos       8 GPS-Sat     10 GLO-Sat      7|
+|Startzeit 12:NaN Dauer 00:00:07       GDOP        1.3 PDOP        1.2 2D KQ    0.006 1D KQ    0.010|
+|                                        dr        0.014 dO        0.014 dN       0.001 dH            |
+|=====================================================================================================|
+|Mehrfachmessungen/Koordinaten und Differenzen zum Mittel                                             |
+|-----------------------------------------------------------------------------------------------------|
+|1.Messung           Status Auto   verw. Kl MESS/GNS     dO       -0.005 dN       0.005 dH       0.007|
+|2.Messung           Status Auto   verw. Kl MESS/GNS     dO        0.004 dN      -0.010 dH      -0.011|
+|Pt 6005522          Cd                  Kl MITL/---      O  2629956.241  N 1241333.695  H     426.238|
+|-----------------------------------------------------------------------------------------------------|
+|=====================================================================================================|
+                                        www.leica-geosystems.de
