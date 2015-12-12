@@ -1,8 +1,8 @@
 IF gunzgen_agi.koo gunzgen_agi.mes
-OF gunzgen_agi_f.prn gunzgen_agi_f.res gunzgen_agi_f.ipl
+OF gunzgen_agi_z.prn gunzgen_agi_z.res gunzgen_agi_z.ipl
 00LFP3 / GP                                                                    
 00Passpunkte Gunzgen fuer lokale Entzerrung                                                              
-01KOORD         3          20          25                10    18
+01KOORD         0          20          25                10    18
 01RUNDUNG       4          20
 01KAT           3           3
 02LAGEITER      3

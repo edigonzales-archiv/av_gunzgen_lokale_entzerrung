@@ -1,0 +1,917 @@
+  ANFANG OUTPUT TRIANGULATION (LTOP )
+ 
+             LLL         TTTTTTTTT     OOOOOOO     PPPPPPPP
+             LLL            TTT       OO     OO    PP     PP
+             LLL            TTT       OO     OO    PP     PP
+             LLL            TTT       OO     OO    PP     PP
+             LLL            TTT       OO     OO    PPPPPPPP
+             LLL            TTT       OO     OO    PP
+             LLL            TTT       OO     OO    PP
+             LLLLLLLLL      TTT        OOOOOOO     PP
+ 
+  ***********************************************************************
+  *                     V E R S I O N   98                              *
+  *---------------------------------------------------------------------*
+  *                                                                     *
+  *           NEUE MOEGLICHKEITEN MIT DIESER LTOP-VERSION:              *
+  *                                                                     *
+  *           NOUVELLES POSSIBILITEES DE CETTE VERSION LTOP:            *
+  *                                                                     *
+  *                                                                     *
+  *           VERSION UNIFIEE 94:STANDARD                               *
+  *                           95:ANALYSE DE DEFORMATION                 *
+  *                           96:AJUSTAGE DE PLANS (TRANSFO. AFFINE)    *
+  *                                                                     *
+  *           LES OPTIONS SONT ACTIVES SELON LA LICENCE SOUSCRITE       *
+  *                                                                     *
+  *                                                                     *
+  *                                                                     *
+  ***********************************************************************
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   6
+  ------------------------------------------------------------------------------------------------------------
+  LAGE - ABRISS   MITTL. FEHLER A PRIORI VON REDUZIERTEN DISTANZEN, RICHTUNGEN UND AZIMUTEN                                          
+  *************   DISTANZ-GRUPPE   ZENTR.    A          B             C         M.F. F. 1KM                                          
+                  KOORD   (GPS)            10.00 MM                                                                                  
+  NR    PUNKT     TYP NP    OR/BEOB. GR  KORR.  VERB.   M.F.  ZI  NABLA   WI      GI  AZI.  AUS   DIST. AUS  QUER.                   
+                              G/M        CC/MM  CC/MM  CC/MM   %  CC/MM        CC/MM  KOORD.(G)   KOORD.(M)   MM                     
+ 
+        SE1             LOKALE-KOORD                                                                                                 
+        ----------------------------                                                                                                 
+        TRANSF. PARAMETER:  DY =       0.0 +/-    2.9 MM (  1)        DREH =       0.241 +/-  1.027 CC  (  1)                        
+        GRUPPE = (SE1    )  DX =       0.0 +/-    2.9 MM (  1)        MST  =      -2.672 +/-  1.613 PPM (  1)                        
+                                                                                                                                     
+        SCHWERPUNKTE:        ----- LOKAL -----                             ----- GLOBAL ----                                         
+                            Y = 2629671.7917 M                            Y = 2629671.8008 M                                         
+                            X = 1240605.6937 M                            X = 1240605.6977 M                                         
+                                                                                               QUOT.=   0.53                         
+        11083500       
+     1        LY         2627144.236              -4.   10.0  33.    90 -0.6        
+     2        LX         1239766.647              -4.   10.0  33.    90 -0.7        
+        6005481       N
+     3        LY         2629303.513               0.   10.0   0. UNEND. NICHT BESTI
+     4        LX         1240218.295               0.   10.0   0. UNEND. NICHT BESTI
+        6005195       N
+     5        LY         2629298.105               0.   10.0   0. UNEND. NICHT BESTI
+     6        LX         1240419.881               0.   10.0   0. UNEND. NICHT BESTI
+        6005391       N
+     7        LY         2629325.210               0.   10.0   0. UNEND. NICHT BESTI
+     8        LX         1240515.171               0.   10.0   0. UNEND. NICHT BESTI
+        6005058       N
+     9        LY         2629283.791               0.   10.0   0. UNEND. NICHT BESTI
+    10        LX         1240470.510               0.   10.0   0. UNEND. NICHT BESTI
+        6005511       N
+    11        LY         2629270.691               0.   10.0   0. UNEND. NICHT BESTI
+    12        LX         1240560.015               0.   10.0   0. UNEND. NICHT BESTI
+        6005392       N
+    13        LY         2629369.850               0.   10.0   0. UNEND. NICHT BESTI
+    14        LX         1240515.400               0.   10.0   0. UNEND. NICHT BESTI
+        6005458       N
+    15        LY         2629423.970               0.   10.0   0. UNEND. NICHT BESTI
+    16        LX         1240476.297               0.   10.0   0. UNEND. NICHT BESTI
+        6005544       N
+    17        LY         2629497.863               0.   10.0   0. UNEND. NICHT BESTI
+    18        LX         1240396.124               0.   10.0   0. UNEND. NICHT BESTI
+        6005198       N
+    19        LY         2629467.348               0.   10.0   0. UNEND. NICHT BESTI
+    20        LX         1240359.765               0.   10.0   0. UNEND. NICHT BESTI
+        6005482       N
+    21        LY         2629385.259               0.   10.0   0. UNEND. NICHT BESTI
+    22        LX         1240293.069               0.   10.0   0. UNEND. NICHT BESTI
+        6005387       N
+    23        LY         2629431.336               0.   10.0   0. UNEND. NICHT BESTI
+    24        LX         1240229.817               0.   10.0   0. UNEND. NICHT BESTI
+        629486240165  N
+    25        LY         2629487.008               0.   10.0   0. UNEND. NICHT BESTI
+    26        LX         1240166.080               0.   10.0   0. UNEND. NICHT BESTI
+        6005201       N
+    27        LY         2629583.832               0.   10.0   0. UNEND. NICHT BESTI
+    28        LX         1240151.114               0.   10.0   0. UNEND. NICHT BESTI
+        6005200       N
+    29        LY         2629529.946               0.   10.0   0. UNEND. NICHT BESTI
+    30        LX         1240202.704               0.   10.0   0. UNEND. NICHT BESTI
+        6005420       N
+    31        LY         2629559.407               0.   10.0   0. UNEND. NICHT BESTI
+    32        LX         1240245.888               0.   10.0   0. UNEND. NICHT BESTI
+        6005421       N
+    33        LY         2629525.981               0.   10.0   0. UNEND. NICHT BESTI
+    34        LX         1240287.985               0.   10.0   0. UNEND. NICHT BESTI
+        6005491       N
+    35        LY         2629542.472               0.   10.0   0. UNEND. NICHT BESTI
+    36        LX         1240346.320               0.   10.0   0. UNEND. NICHT BESTI
+        6004039       N
+    37        LY         2629566.293               0.   10.0   0. UNEND. NICHT BESTI
+    38        LX         1240365.492               0.   10.0   0. UNEND. NICHT BESTI
+        6005509       N
+    39        LY         2629617.314               0.   10.0   0. UNEND. NICHT BESTI
+    40        LX         1240269.374               0.   10.0   0. UNEND. NICHT BESTI
+        6005052       N
+    41        LY         2629649.684               0.   10.0   0. UNEND. NICHT BESTI
+    42        LX         1240226.672               0.   10.0   0. UNEND. NICHT BESTI
+        6005405       N
+    43        LY         2629717.841               0.   10.0   0. UNEND. NICHT BESTI
+    44        LX         1240162.525               0.   10.0   0. UNEND. NICHT BESTI
+        6005269       N
+    45        LY         2629753.778               0.   10.0   0. UNEND. NICHT BESTI
+    46        LX         1240141.871               0.   10.0   0. UNEND. NICHT BESTI
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   7
+  ------------------------------------------------------------------------------------------------------------
+  NR    PUNKT     TYP NP    OR/BEOB. GR  KORR.  VERB.   M.F.  ZI  NABLA   WI      GI  AZI.  AUS   DIST. AUS  QUER.                   
+                              G/M        CC/MM  CC/MM  CC/MM   %  CC/MM        CC/MM  KOORD.(G)   KOORD.(M)   MM                     
+ 
+        SE1             LOKALE-KOORD  (FORTSETZUNG)                                                                                  
+        ----------------------------                                                                                                 
+        6005438       N
+    47        LY         2629724.809               0.   10.0   0. UNEND. NICHT BESTI
+    48        LX         1240205.591               0.   10.0   0. UNEND. NICHT BESTI
+        6005469       N
+    49        LY         2629758.510               0.   10.0   0. UNEND. NICHT BESTI
+    50        LX         1240271.761               0.   10.0   0. UNEND. NICHT BESTI
+        6005515       N
+    51        LY         2629724.563               0.   10.0   0. UNEND. NICHT BESTI
+    52        LX         1240294.919               0.   10.0   0. UNEND. NICHT BESTI
+        6005514       N
+    53        LY         2629685.652               0.   10.0   0. UNEND. NICHT BESTI
+    54        LX         1240257.684               0.   10.0   0. UNEND. NICHT BESTI
+        6005495       N
+    55        LY         2629773.523               0.   10.0   0. UNEND. NICHT BESTI
+    56        LX         1240341.075               0.   10.0   0. UNEND. NICHT BESTI
+        6005494       N
+    57        LY         2629743.591               0.   10.0   0. UNEND. NICHT BESTI
+    58        LX         1240377.140               0.   10.0   0. UNEND. NICHT BESTI
+        6005456       N
+    59        LY         2629715.748               0.   10.0   0. UNEND. NICHT BESTI
+    60        LX         1240392.824               0.   10.0   0. UNEND. NICHT BESTI
+        6005512       N
+    61        LY         2629656.769               0.   10.0   0. UNEND. NICHT BESTI
+    62        LX         1240351.445               0.   10.0   0. UNEND. NICHT BESTI
+        6004038       N
+    63        LY         2629610.764               0.   10.0   0. UNEND. NICHT BESTI
+    64        LX         1240313.652               0.   10.0   0. UNEND. NICHT BESTI
+        6005480       N
+    65        LY         2629572.237               0.   10.0   0. UNEND. NICHT BESTI
+    66        LX         1240456.412               0.   10.0   0. UNEND. NICHT BESTI
+        6005454       N
+    67        LY         2629615.407               0.   10.0   0. UNEND. NICHT BESTI
+    68        LX         1240494.623               0.   10.0   0. UNEND. NICHT BESTI
+        6005455       N
+    69        LY         2629668.302               0.   10.0   0. UNEND. NICHT BESTI
+    70        LX         1240445.502               0.   10.0   0. UNEND. NICHT BESTI
+        6005406       N
+    71        LY         2629754.929               0.   10.0   0. UNEND. NICHT BESTI
+    72        LX         1240430.095               0.   10.0   0. UNEND. NICHT BESTI
+        6005404       N
+    73        LY         2629707.106               0.   10.0   0. UNEND. NICHT BESTI
+    74        LX         1240477.892               0.   10.0   0. UNEND. NICHT BESTI
+        6005403       N
+    75        LY         2629660.578               0.   10.0   0. UNEND. NICHT BESTI
+    76        LX         1240535.055               0.   10.0   0. UNEND. NICHT BESTI
+        6005206       N
+    77        LY         2629731.331               0.   10.0   0. UNEND. NICHT BESTI
+    78        LX         1240595.436               0.   10.0   0. UNEND. NICHT BESTI
+        6005516       N
+    79        LY         2629853.748               0.   10.0   0. UNEND. NICHT BESTI
+    80        LX         1240696.650               0.   10.0   0. UNEND. NICHT BESTI
+        6005441       N
+    81        LY         2629799.123               0.   10.0   0. UNEND. NICHT BESTI
+    82        LX         1240737.867               0.   10.0   0. UNEND. NICHT BESTI
+        629796240739  N
+    83        LY         2629796.981               0.   10.0   0. UNEND. NICHT BESTI
+    84        LX         1240740.217               0.   10.0   0. UNEND. NICHT BESTI
+        629786240746  N
+    85        LY         2629787.227               0.   10.0   0. UNEND. NICHT BESTI
+    86        LX         1240747.029               0.   10.0   0. UNEND. NICHT BESTI
+        629783240742  N
+    87        LY         2629784.062               0.   10.0   0. UNEND. NICHT BESTI
+    88        LX         1240742.592               0.   10.0   0. UNEND. NICHT BESTI
+        629744240761  N
+    89        LY         2629745.249               0.   10.0   0. UNEND. NICHT BESTI
+    90        LX         1240762.073               0.   10.0   0. UNEND. NICHT BESTI
+        6005038       N
+    91        LY         2629745.491               0.   10.0   0. UNEND. NICHT BESTI
+    92        LX         1240761.099               0.   10.0   0. UNEND. NICHT BESTI
+        629741240760  N
+    93        LY         2629741.942               0.   10.0   0. UNEND. NICHT BESTI
+    94        LX         1240760.853               0.   10.0   0. UNEND. NICHT BESTI
+        6005346       N
+    95        LY         2629701.118               0.   10.0   0. UNEND. NICHT BESTI
+    96        LX         1240702.786               0.   10.0   0. UNEND. NICHT BESTI
+        629642240744  N
+    97        LY         2629643.454               0.   10.0   0. UNEND. NICHT BESTI
+    98        LX         1240745.155               0.   10.0   0. UNEND. NICHT BESTI
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   8
+  ------------------------------------------------------------------------------------------------------------
+  NR    PUNKT     TYP NP    OR/BEOB. GR  KORR.  VERB.   M.F.  ZI  NABLA   WI      GI  AZI.  AUS   DIST. AUS  QUER.                   
+                              G/M        CC/MM  CC/MM  CC/MM   %  CC/MM        CC/MM  KOORD.(G)   KOORD.(M)   MM                     
+ 
+        SE1             LOKALE-KOORD  (FORTSETZUNG)                                                                                  
+        ----------------------------                                                                                                 
+        6005341       N
+    99        LY         2629530.096               0.   10.0   0. UNEND. NICHT BESTI
+   100        LX         1240565.247               0.   10.0   0. UNEND. NICHT BESTI
+        6005288       N
+   101        LY         2629493.163               0.   10.0   0. UNEND. NICHT BESTI
+   102        LX         1240541.178               0.   10.0   0. UNEND. NICHT BESTI
+        6005342       N
+   103        LY         2629579.539               0.   10.0   0. UNEND. NICHT BESTI
+   104        LX         1240543.279               0.   10.0   0. UNEND. NICHT BESTI
+        11085480       
+   105        LY         2630908.869              -2.   10.0  49.    73 -0.3        
+   106        LX         1240356.931              -4.   10.0  49.    73 -0.6        
+        11084590       
+   107        LY         2629739.361               1.   10.0  57.    68  0.1        
+   108        LX         1238666.882               6.   10.0  57.    68  0.8        
+        6005390       N
+   109        LY         2629487.400               0.   10.0   0. UNEND. NICHT BESTI
+   110        LX         1240668.702               0.   10.0   0. UNEND. NICHT BESTI
+        629452240636  N
+   111        LY         2629452.628               0.   10.0   0. UNEND. NICHT BESTI
+   112        LX         1240636.986               0.   10.0   0. UNEND. NICHT BESTI
+        6005508       N
+   113        LY         2629531.538               0.   10.0   0. UNEND. NICHT BESTI
+   114        LX         1240867.111               0.   10.0   0. UNEND. NICHT BESTI
+        6005034       N
+   115        LY         2629496.558               0.   10.0   0. UNEND. NICHT BESTI
+   116        LX         1240891.166               0.   10.0   0. UNEND. NICHT BESTI
+        6005386       N
+   117        LY         2629651.294               0.   10.0   0. UNEND. NICHT BESTI
+   118        LX         1240837.798               0.   10.0   0. UNEND. NICHT BESTI
+        6005395       N
+   119        LY         2629695.199               0.   10.0   0. UNEND. NICHT BESTI
+   120        LX         1240804.445               0.   10.0   0. UNEND. NICHT BESTI
+        6005396       N
+   121        LY         2629729.359               0.   10.0   0. UNEND. NICHT BESTI
+   122        LX         1240850.769               0.   10.0   0. UNEND. NICHT BESTI
+        6005394       N
+   123        LY         2629778.019               0.   10.0   0. UNEND. NICHT BESTI
+   124        LX         1240902.480               0.   10.0   0. UNEND. NICHT BESTI
+        6005457       N
+   125        LY         2629785.557               0.   10.0   0. UNEND. NICHT BESTI
+   126        LX         1240984.562               0.   10.0   0. UNEND. NICHT BESTI
+        6005422       N
+   127        LY         2629741.513               0.   10.0   0. UNEND. NICHT BESTI
+   128        LX         1240946.443               0.   10.0   0. UNEND. NICHT BESTI
+        629741240940  N
+   129        LY         2629741.659               0.   10.0   0. UNEND. NICHT BESTI
+   130        LX         1240940.695               0.   10.0   0. UNEND. NICHT BESTI
+        6005545       N
+   131        LY         2629636.104               0.   10.0   0. UNEND. NICHT BESTI
+   132        LX         1240921.123               0.   10.0   0. UNEND. NICHT BESTI
+        629636240919  N
+   133        LY         2629637.447               0.   10.0   0. UNEND. NICHT BESTI
+   134        LX         1240919.738               0.   10.0   0. UNEND. NICHT BESTI
+        6005388       N
+   135        LY         2629743.857               0.   10.0   0. UNEND. NICHT BESTI
+   136        LX         1241019.890               0.   10.0   0. UNEND. NICHT BESTI
+        6005031       N
+   137        LY         2629659.476               0.   10.0   0. UNEND. NICHT BESTI
+   138        LX         1241105.334               0.   10.0   0. UNEND. NICHT BESTI
+        629638241166  N
+   139        LY         2629638.460               0.   10.0   0. UNEND. NICHT BESTI
+   140        LX         1241166.550               0.   10.0   0. UNEND. NICHT BESTI
+        629796241078  N
+   141        LY         2629796.621               0.   10.0   0. UNEND. NICHT BESTI
+   142        LX         1241079.150               0.   10.0   0. UNEND. NICHT BESTI
+        6005499       N
+   143        LY         2629768.777               0.   10.0   0. UNEND. NICHT BESTI
+   144        LX         1241131.178               0.   10.0   0. UNEND. NICHT BESTI
+        629744241157  N
+   145        LY         2629745.320               0.   10.0   0. UNEND. NICHT BESTI
+   146        LX         1241157.666               0.   10.0   0. UNEND. NICHT BESTI
+        629736241161  N
+   147        LY         2629736.670               0.   10.0   0. UNEND. NICHT BESTI
+   148        LX         1241161.929               0.   10.0   0. UNEND. NICHT BESTI
+        6005500       N
+   149        LY         2629732.715               0.   10.0   0. UNEND. NICHT BESTI
+   150        LX         1241162.500               0.   10.0   0. UNEND. NICHT BESTI
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   9
+  ------------------------------------------------------------------------------------------------------------
+  NR    PUNKT     TYP NP    OR/BEOB. GR  KORR.  VERB.   M.F.  ZI  NABLA   WI      GI  AZI.  AUS   DIST. AUS  QUER.                   
+                              G/M        CC/MM  CC/MM  CC/MM   %  CC/MM        CC/MM  KOORD.(G)   KOORD.(M)   MM                     
+ 
+        SE1             LOKALE-KOORD  (FORTSETZUNG)                                                                                  
+        ----------------------------                                                                                                 
+        6005418       N
+   151        LY         2629832.937               0.   10.0   0. UNEND. NICHT BESTI
+   152        LX         1241009.847               0.   10.0   0. UNEND. NICHT BESTI
+        629836241014  N
+   153        LY         2629837.109               0.   10.0   0. UNEND. NICHT BESTI
+   154        LX         1241014.761               0.   10.0   0. UNEND. NICHT BESTI
+        6005393       N
+   155        LY         2629871.016               0.   10.0   0. UNEND. NICHT BESTI
+   156        LX         1240971.328               0.   10.0   0. UNEND. NICHT BESTI
+        6005213       N
+   157        LY         2629918.729               0.   10.0   0. UNEND. NICHT BESTI
+   158        LX         1240917.678               0.   10.0   0. UNEND. NICHT BESTI
+        6005419       N
+   159        LY         2629901.055               0.   10.0   0. UNEND. NICHT BESTI
+   160        LX         1241051.046               0.   10.0   0. UNEND. NICHT BESTI
+        6005411       N
+   161        LY         2629968.892               0.   10.0   0. UNEND. NICHT BESTI
+   162        LX         1241086.568               0.   10.0   0. UNEND. NICHT BESTI
+        6005443       N
+   163        LY         2629930.450               0.   10.0   0. UNEND. NICHT BESTI
+   164        LX         1241119.446               0.   10.0   0. UNEND. NICHT BESTI
+        6005442       N
+   165        LY         2630001.821               0.   10.0   0. UNEND. NICHT BESTI
+   166        LX         1241147.944               0.   10.0   0. UNEND. NICHT BESTI
+        6005296       N
+   167        LY         2630102.058               0.   10.0   0. UNEND. NICHT BESTI
+   168        LX         1241115.299               0.   10.0   0. UNEND. NICHT BESTI
+        6005258       N
+   169        LY         2629849.685               0.   10.0   0. UNEND. NICHT BESTI
+   170        LX         1241086.045               0.   10.0   0. UNEND. NICHT BESTI
+        6005436       N
+   171        LY         2630067.694               0.   10.0   0. UNEND. NICHT BESTI
+   172        LX         1241174.254               0.   10.0   0. UNEND. NICHT BESTI
+        6005437       N
+   173        LY         2630122.975               0.   10.0   0. UNEND. NICHT BESTI
+   174        LX         1241204.819               0.   10.0   0. UNEND. NICHT BESTI
+        6005529       N
+   175        LY         2629921.783               0.   10.0   0. UNEND. NICHT BESTI
+   176        LX         1240296.144               0.   10.0   0. UNEND. NICHT BESTI
+        6005407       N
+   177        LY         2629888.705               0.   10.0   0. UNEND. NICHT BESTI
+   178        LX         1240338.026               0.   10.0   0. UNEND. NICHT BESTI
+        6005408       N
+   179        LY         2629978.789               0.   10.0   0. UNEND. NICHT BESTI
+   180        LX         1240294.784               0.   10.0   0. UNEND. NICHT BESTI
+        6005409       N
+   181        LY         2630054.349               0.   10.0   0. UNEND. NICHT BESTI
+   182        LX         1240244.686               0.   10.0   0. UNEND. NICHT BESTI
+        6005271       N
+   183        LY         2629905.042               0.   10.0   0. UNEND. NICHT BESTI
+   184        LX         1240201.735               0.   10.0   0. UNEND. NICHT BESTI
+        6005270       N
+   185        LY         2629830.607               0.   10.0   0. UNEND. NICHT BESTI
+   186        LX         1240176.395               0.   10.0   0. UNEND. NICHT BESTI
+        11084040       
+   187        LY         2629290.580               5.   10.0  61.    66  0.6        
+   188        LX         1241230.224               3.   10.0  61.    66  0.3        
+ 
+  STATISTIK                                                                                                                          
+  *********                                                                                                                          
+   180 WI GROESSER   3.5,          GROESSTER WERT N. B. BEI BEOBACHTUNG NUMMER     3                                                 
+                                                                                                                                     
+  GRENZE ENTDECKB. FEHLER:    5.1, FEHLER 2. ART:   5.0 %                                                                            
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  10
+  ------------------------------------------------------------------------------------------------------------
+  HOEHEN - ABRISS      WENN NICHT GEGEBEN RESULTIERT DER M.F. A PRIORI DER H.-DIFF. AUS                                              
+  ***************      M.F. DER GEGEB. WERTE:      D GER       HW       IH-SH    REFR-K                                              
+                       M.F. FUER SIG-ZIELPTE:     14.0 MM   10.0 CC     3.2 MM    0.060                                              
+  REFR-K = 0.130       M.F. FUER HOCHZIELPTE:     28.0 MM   10.0 CC    10.0 MM    0.060                                              
+                       FUER EINSEITIGE VISUREN WIRD DIESER WERT MULTIPLIZIERT MIT  1.73                                              
+                       HOEHEN       (GPS)   :     18.0 MM  (A PRIORI)                                                                
+  NR    PUNKT    TYP NP H/DIFF    GR KTR VERB.   M.F. ZI  NABLA   WI    GI  DIST AUS   HW        RED  IH     SH   DATUM              
+                            M         MM   MM     MM   %     MM         MM  KOORD.(M)   G        CC    M      M                      
+
+
+        SE1             LOKALE-KOORD                                                                                                 
+        ----------------------------                                                                                                 
+        TRANSF. PARAMETER:  DH =      64.8 +/-    8.9 MM (  1)    DREH. UM X = ------ NICHT VERLANGT ------                          
+        GRUPPE = (SE1    )                                        DREH. UM Y = ------ NICHT VERLANGT ------                          
+   189  11083500         435.079           -4.  18.0  75.   107 -0.2                                                             
+   190  6005481       N  436.092            0.  18.0   0. UNEND. NICHT BES                                                       
+   191  6005195       N  431.562            0.  18.0   0. UNEND. NICHT BES                                                       
+   192  6005391       N  430.190            0.  18.0   0. UNEND. NICHT BES                                                       
+   193  6005058       N  429.525            0.  18.0   0. UNEND. NICHT BES                                                       
+   194  6005511       N  429.206            0.  18.0   0. UNEND. NICHT BES                                                       
+   195  6005392       N  430.676            0.  18.0   0. UNEND. NICHT BES                                                       
+   196  6005458       N  433.055            0.  18.0   0. UNEND. NICHT BES                                                       
+   197  6005544       N  434.769            0.  18.0   0. UNEND. NICHT BES                                                       
+   198  6005198       N  435.033            0.  18.0   0. UNEND. NICHT BES                                                       
+   199  6005482       N  435.202            0.  18.0   0. UNEND. NICHT BES                                                       
+   200  6005387       N  438.750            0.  18.0   0. UNEND. NICHT BES                                                       
+   201  629486240165  N  440.379            0.  18.0   0. UNEND. NICHT BES                                                       
+   202  6005201       N  441.433            0.  18.0   0. UNEND. NICHT BES                                                       
+   203  6005200       N  442.050            0.  18.0   0. UNEND. NICHT BES                                                       
+   204  6005420       N  440.948            0.  18.0   0. UNEND. NICHT BES                                                       
+   205  6005421       N  439.328            0.  18.0   0. UNEND. NICHT BES                                                       
+   206  6005491       N  437.321            0.  18.0   0. UNEND. NICHT BES                                                       
+   207  6004039       N  438.068            0.  18.0   0. UNEND. NICHT BES                                                       
+   208  6005509       N  441.448            0.  18.0   0. UNEND. NICHT BES                                                       
+   209  6005052       N  444.116            0.  18.0   0. UNEND. NICHT BES                                                       
+   210  6005405       N  444.957            0.  18.0   0. UNEND. NICHT BES                                                       
+   211  6005269       N  444.975            0.  18.0   0. UNEND. NICHT BES                                                       
+   212  6005438       N  446.186            0.  18.0   0. UNEND. NICHT BES                                                       
+   213  6005469       N  443.927            0.  18.0   0. UNEND. NICHT BES                                                       
+   214  6005515       N  443.076            0.  18.0   0. UNEND. NICHT BES                                                       
+   215  6005514       N  444.151            0.  18.0   0. UNEND. NICHT BES                                                       
+   216  6005495       N  437.919            0.  18.0   0. UNEND. NICHT BES                                                       
+   217  6005494       N  435.782            0.  18.0   0. UNEND. NICHT BES                                                       
+   218  6005456       N  435.320            0.  18.0   0. UNEND. NICHT BES                                                       
+   219  6005512       N  438.765            0.  18.0   0. UNEND. NICHT BES                                                       
+   220  6004038       N  440.493            0.  18.0   0. UNEND. NICHT BES                                                       
+   221  6005480       N  433.643            0.  18.0   0. UNEND. NICHT BES                                                       
+   222  6005454       N  433.016            0.  18.0   0. UNEND. NICHT BES                                                       
+   223  6005455       N  433.942            0.  18.0   0. UNEND. NICHT BES                                                       
+   224  6005406       N  434.476            0.  18.0   0. UNEND. NICHT BES                                                       
+   225  6005404       N  434.282            0.  18.0   0. UNEND. NICHT BES                                                       
+   226  6005403       N  432.425            0.  18.0   0. UNEND. NICHT BES                                                       
+   227  6005206       N  432.279            0.  18.0   0. UNEND. NICHT BES                                                       
+   228  6005516       N  434.891            0.  18.0   0. UNEND. NICHT BES                                                       
+   229  6005441       N  434.191            0.  18.0   0. UNEND. NICHT BES                                                       
+   230  629796240739  N  434.168            0.  18.0   0. UNEND. NICHT BES                                                       
+   231  629786240746  N  434.074            0.  18.0   0. UNEND. NICHT BES                                                       
+   232  629783240742  N  434.070            0.  18.0   0. UNEND. NICHT BES                                                       
+   233  629744240761  N  433.447            0.  18.0   0. UNEND. NICHT BES                                                       
+   234  6005038       N  433.465            0.  18.0   0. UNEND. NICHT BES                                                       
+   235  629741240760  N  433.321            0.  18.0   0. UNEND. NICHT BES                                                       
+   236  6005346       N  435.208            0.  18.0   0. UNEND. NICHT BES                                                       
+   237  629642240744  N  430.044            0.  18.0   0. UNEND. NICHT BES                                                       
+   238  6005341       N  432.518            0.  18.0   0. UNEND. NICHT BES                                                       
+   239  6005288       N  432.504            0.  18.0   0. UNEND. NICHT BES                                                       
+   240  6005342       N  431.809            0.  18.0   0. UNEND. NICHT BES                                                       
+   241  11085480         450.868          -23.  18.0  75.   107 -1.5                                                             
+   242  11084590         428.368            7.  18.0  75.   107  0.5                                                             
+   243  6005390       N  428.689            0.  18.0   0. UNEND. NICHT BES                                                       
+   244  629452240636  N  429.606            0.  18.0   0. UNEND. NICHT BES                                                       
+   245  6005508       N  428.014            0.  18.0   0. UNEND. NICHT BES                                                       
+   246  6005034       N  427.988            0.  18.0   0. UNEND. NICHT BES                                                       
+   247  6005386       N  428.316            0.  18.0   0. UNEND. NICHT BES                                                       
+   248  6005395       N  430.674            0.  18.0   0. UNEND. NICHT BES                                                       
+   249  6005396       N  430.077            0.  18.0   0. UNEND. NICHT BES                                                       
+   250  6005394       N  427.576            0.  18.0   0. UNEND. NICHT BES                                                       
+   251  6005457       N  426.650            0.  18.0   0. UNEND. NICHT BES                                                       
+   252  6005422       N  427.069            0.  18.0   0. UNEND. NICHT BES                                                       
+   253  629741240940  N  427.229            0.  18.0   0. UNEND. NICHT BES                                                       
+   254  6005545       N  427.851            0.  18.0   0. UNEND. NICHT BES                                                       
+   255  629636240919  N  427.905            0.  18.0   0. UNEND. NICHT BES                                                       
+   256  6005388       N  427.482            0.  18.0   0. UNEND. NICHT BES                                                       
+   257  6005031       N  427.872            0.  18.0   0. UNEND. NICHT BES                                                       
+   258  629638241166  N  427.370            0.  18.0   0. UNEND. NICHT BES                                                       
+   259  629796241078  N  427.237            0.  18.0   0. UNEND. NICHT BES                                                       
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  11
+  ------------------------------------------------------------------------------------------------------------
+  NR    PUNKT    TYP NP H/DIFF    GR KTR VERB.   M.F. ZI  NABLA   WI    GI  DIST AUS   HW        RED  IH     SH   DATUM              
+                            M         MM   MM     MM   %     MM         MM  KOORD.(M)   G        CC    M      M                      
+
+
+        SE1             LOKALE-KOORD  (FORTSETZUNG)                                                                                  
+        ----------------------------                                                                                                 
+   260  6005499       N  427.211            0.  18.0   0. UNEND. NICHT BES                                                       
+   261  629744241157  N  427.320            0.  18.0   0. UNEND. NICHT BES                                                       
+   262  629736241161  N  427.438            0.  18.0   0. UNEND. NICHT BES                                                       
+   263  6005500       N  427.430            0.  18.0   0. UNEND. NICHT BES                                                       
+   264  6005418       N  426.852            0.  18.0   0. UNEND. NICHT BES                                                       
+   265  629836241014  N  427.031            0.  18.0   0. UNEND. NICHT BES                                                       
+   266  6005393       N  426.922            0.  18.0   0. UNEND. NICHT BES                                                       
+   267  6005213       N  427.811            0.  18.0   0. UNEND. NICHT BES                                                       
+   268  6005419       N  426.366            0.  18.0   0. UNEND. NICHT BES                                                       
+   269  6005411       N  426.651            0.  18.0   0. UNEND. NICHT BES                                                       
+   270  6005443       N  426.841            0.  18.0   0. UNEND. NICHT BES                                                       
+   271  6005442       N  426.757            0.  18.0   0. UNEND. NICHT BES                                                       
+   272  6005296       N  426.497            0.  18.0   0. UNEND. NICHT BES                                                       
+   273  6005258       N  427.044            0.  18.0   0. UNEND. NICHT BES                                                       
+   274  6005436       N  426.614            0.  18.0   0. UNEND. NICHT BES                                                       
+   275  6005437       N  426.697            0.  18.0   0. UNEND. NICHT BES                                                       
+   276  6005529       N  436.779            0.  18.0   0. UNEND. NICHT BES                                                       
+   277  6005407       N  436.289            0.  18.0   0. UNEND. NICHT BES                                                       
+   278  6005408       N  437.361            0.  18.0   0. UNEND. NICHT BES                                                       
+   279  6005409       N  438.514            0.  18.0   0. UNEND. NICHT BES                                                       
+   280  6005271       N  443.156            0.  18.0   0. UNEND. NICHT BES                                                       
+   281  6005270       N  447.328            0.  18.0   0. UNEND. NICHT BES                                                       
+   282  11084040         427.616           19.  18.0  75.   107  1.2                                                             
+
+  STATISTIK                                                                                                                          
+  *********                                                                                                                          
+    90 WI GROESSER   3.5,          GROESSTER WERT N. B. BEI BEOBACHTUNG NUMMER   190                                                 
+                                                                                                                                     
+  GRENZE ENTDECKB. FEHLER:    5.1, FEHLER 2. ART:   5.0 %                                                                            
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   2
+  ------------------------------------------------------------------------------------------------------------
+  KOORDINATEN UND HOEHEN, NEUPUNKTE MIT AENDERUNGEN UND MITTL. FEHLERELLIPSEN                LAND : CH
+  ***************************************************************************
+  PUNKT    TYP         Y           X         H         DY      DX      DH     MFA   MFB   AZI_A   MFH  MESSELEM.
+                       M           M         M         MM      MM      MM     MM    MM      G     MM   LAGE HOE.
+  NULLBERN      2600000.000 1200000.000     0.000                                                        0    0
+  PLOT          2595000.000 1216000.000     0.000                                                        0    0
+  PLOT          2627000.000 1240000.000     0.000                                                        0    0
+  11083500      2627144.248 1239766.650   435.140                                                        2    1
+  11085480      2630908.873 1240356.931   450.910                                                        2    1
+  11084590      2629739.370 1238666.897   428.440                                                        2    1
+  11084040      2629290.595 1241230.229   427.700                                                        2    1
+  6005481       2629303.523 1240218.300   436.157     27.0    16.2   23.8     6.0   6.0  100.0   19.9    2    1
+  6005195       2629298.115 1240419.886   431.627     14.1    46.6    6.7     6.0   6.0   -9.1   19.9    2    1
+  6005391       2629325.220 1240515.175   430.255     -3.0    21.4   54.7     6.0   6.0  -50.0   19.9    2    1
+  6005058       2629283.801 1240470.515   429.590     10.1    64.5   -0.2     6.0   6.0   -6.9   19.9    2    1
+  6005511       2629270.701 1240560.019   429.271     -6.8    21.3   25.8     6.0   6.0   -5.6   19.9    2    1
+  6005392       2629369.860 1240515.404   430.741    -18.1    14.3   60.7     6.0   6.0   -1.9   19.9    2    1
+  6005458       2629423.980 1240476.301   433.120     -3.2    26.4   35.8     6.0   6.0    1.9   19.9    2    1
+  6005544       2629497.873 1240396.129   434.834     17.5    43.6   35.8     6.0   6.0    5.2   19.9    2    1
+  6005198       2629467.358 1240359.770   435.098     27.6    22.7   -2.2     6.0   6.0   50.0   19.9    2    1
+  6005482       2629385.269 1240293.074   435.267     25.8    30.9   10.7     6.0   6.0   50.0   19.9    2    1
+  6005387       2629431.346 1240229.822   438.815     26.7    26.1   14.8     6.0   6.0   50.0   19.9    2    1
+  629486240165  2629487.017 1240166.085   440.444     78.5    -9.8   64.8     6.0   6.0   15.6   19.9    2    1
+  6005201       2629583.841 1240151.119   441.498     63.2    45.2  -12.2     6.0   6.0   50.0   19.9    2    1
+  6005200       2629529.955 1240202.709   442.115     66.4    44.1   14.8     6.0   6.0   16.8   19.9    2    1
+  6005420       2629559.416 1240245.893   441.013     49.3    41.0   52.7     6.0   6.0   20.0   19.9    2    1
+  6005421       2629525.990 1240287.990   439.393     41.4    30.9   32.8     6.0   6.0    6.7   19.9    2    1
+  6005491       2629542.481 1240346.325   437.386     33.4    62.7    0.8     6.0   6.0   50.0   19.9    2    1
+  6004039       2629566.302 1240365.497   438.133     18.3    58.7   18.8     6.0   6.0   15.9   19.9    2    1
+  6005509       2629617.323 1240269.379   441.513     23.2    72.9   -4.3     6.0   6.0   12.9   19.9    2    1
+  6005052       2629649.693 1240226.677   444.181     55.1   112.0   10.7     6.0   6.0   13.8   19.9    2    1
+  6005405       2629717.850 1240162.530   445.022     51.9    88.2  -28.2     6.0   6.0   18.7   19.9    2    1
+  6005269       2629753.787 1240141.876   445.040     69.8   113.2    9.7     6.0   6.0   20.6   19.9    2    1
+  6005438       2629724.818 1240205.596   446.251     32.9    80.0  -12.2     6.0   6.0   29.2   19.9    2    1
+  6005469       2629758.519 1240271.766   443.992     56.8    60.9   -1.3     6.0   6.0   27.3   19.9    2    1
+  6005515       2629724.572 1240294.924   443.141     36.9    74.8   -0.3     6.0   6.0    8.8   19.9    2    1
+  6005514       2629685.661 1240257.689   444.216     52.0    61.9   15.7     6.0   6.0   50.0   19.9    2    1
+  6005495       2629773.532 1240341.080   437.984     33.8    55.7    5.7     6.0   6.0   83.5   19.9    2    1
+  6005494       2629743.600 1240377.145   435.847     23.9    66.6   19.8     6.0   6.0   14.2   19.9    2    1
+  6005456       2629715.757 1240392.829   435.385     24.0    79.5   68.8     6.0   6.0   12.6   19.9    2    1
+  6005512       2629656.778 1240351.450   438.830     38.1    44.7   33.8     6.0   6.0   50.0   19.9    2    1
+  6004038       2629610.773 1240313.657   440.558     35.2    51.8   31.7     6.0   6.0   21.0   19.9    2    1
+  6005480       2629572.246 1240456.416   433.708     20.4    57.4   44.8     6.0   6.0   13.2   19.9    2    1
+  6005454       2629615.416 1240494.627   433.081     62.3    59.3   60.8     6.0   6.0    3.2   19.9    2    1
+  6005455       2629668.311 1240445.506   434.007     25.1    80.4   51.7     6.0   6.0   50.0   19.9    2    1
+  6005406       2629754.938 1240430.099   434.541     22.9    56.4    0.7     6.0   6.0   14.1   19.9    2    1
+  6005404       2629707.115 1240477.896   434.347     35.0    86.3   36.8     6.0   6.0   10.7   19.9    2    1
+  6005403       2629660.587 1240535.059   432.490     30.2    65.2   39.8     6.0   6.0    8.5   19.9    2    1
+  6005206       2629731.340 1240595.440   432.344     30.0    71.0    3.7     6.1   6.1    3.1   19.9    2    1
+  6005516       2629853.757 1240696.654   434.956      2.7    31.7   14.8     6.1   6.1   12.0   19.9    2    1
+  6005441       2629799.132 1240737.871   434.256     14.9    22.6    5.8     6.1   6.1    3.0   19.9    2    1
+  629796240739  2629796.990 1240740.221   434.233     60.9    -4.4   64.8     6.1   6.1    4.1   19.9    2    1
+  629786240746  2629787.236 1240747.033   434.139     44.9   -24.4   64.8     6.1   6.1    4.3   19.9    2    1
+  629783240742  2629784.071 1240742.596   434.135     41.9     8.6   64.8     6.1   6.1    7.6   19.9    2    1
+  629744240761  2629745.258 1240762.077   433.512    -23.0     5.5   64.8     6.1   6.1    2.7   19.9    2    1
+  6005038       2629745.500 1240761.103   433.530      9.0    21.6   19.8     6.1   6.1   50.0   19.9    2    1
+  629741240760  2629741.951 1240760.857   433.386      0.0    15.6   64.8     6.1   6.1    5.4   19.9    2    1
+  6005346       2629701.127 1240702.790   435.273     -2.9    28.7  -67.3     6.1   6.1    6.3   19.9    2    1
+  629642240744  2629643.463 1240745.159   430.109     -7.7    27.6   64.8     6.1   6.1    1.1   19.9    2    1
+  6005341       2629530.106 1240565.251   432.583     14.5    41.2   -7.2     6.0   6.0    1.7   19.9    2    1
+  6005288       2629493.173 1240541.182   432.569     11.6    23.2   28.8     6.0   6.0   50.0   19.9    2    1
+  6005342       2629579.548 1240543.283   431.874     68.4    44.2   64.8     6.0   6.0   50.0   19.9    2    1
+  6005390       2629487.410 1240668.706   428.754     -5.3    26.9   23.8     6.1   6.1  -50.0   19.9    2    1
+  629452240636  2629452.638 1240636.990   429.671     -9.2    15.0   64.8     6.0   6.0   -3.9   19.9    2    1
+  6005508       2629531.548 1240867.114   428.079    -32.4    45.3  -61.2     6.1   6.1   -4.4   19.9    2    1
+  6005034       2629496.568 1240891.169   428.053    -24.3    15.3 -137.3     6.1   6.1  -50.0   19.9    2    1
+  6005386       2629651.303 1240837.801   428.381    -27.7    18.4   20.8     6.1   6.1   -0.9   19.9    2    1
+  6005395       2629695.208 1240804.448   430.739    -15.8    26.5   48.8     6.1   6.1    1.9   19.9    2    1
+  6005396       2629729.368 1240850.772   430.142    -13.9    31.3   41.8     6.2   6.2    1.2   19.9    2    1
+  6005394       2629778.028 1240902.483   427.641    -32.0     8.2   20.8     6.2   6.2    1.3   19.9    2    1
+  6005457       2629785.566 1240984.565   426.715    -39.0     9.9  122.8     6.2   6.2   -0.3   19.9    2    1
+  6005422       2629741.522 1240946.446   427.134    -32.9    30.1  123.8     6.2   6.2    0.9   19.9    2    1
+  629741240940  2629741.668 1240940.698   427.294    -22.9    22.1   64.8     6.2   6.2    0.2   19.9    2    1
+  6005545       2629636.113 1240921.126   427.916    -24.6    17.2   45.8     6.2   6.2   -3.3   19.9    2    1
+  629636240919  2629637.456 1240919.741   427.970    -25.6    -2.8   64.8     6.2   6.2   -3.3   19.9    2    1
+  6005388       2629743.866 1241019.893   427.547    -48.9   -12.1   63.8     6.2   6.2   -0.5   19.9    2    1
+  6005031       2629659.485 1241105.337   427.937    -47.6   -27.3    6.7     6.2   6.2   -3.7   19.9    2    1
+  629638241166  2629638.469 1241166.553   427.435    -23.5   -50.5   64.8     6.3   6.3   -5.6   19.9    2    1
+  629796241078  2629796.630 1241079.153   427.302    -42.0   -18.3   64.8     6.3   6.3   -0.8   19.9    2    1
+  6005499       2629768.786 1241131.181   427.276    -50.9   -45.4   18.7     6.3   6.3   -7.5   19.9    2    1
+  629744241157  2629745.329 1241157.668   427.385    -52.8   -62.5   64.8     6.3   6.3   -5.8   19.9    2    1
+  629736241161  2629736.679 1241161.931   427.503    -22.8   -59.5   64.8     6.3   6.3   -4.6   19.9    2    1
+  6005500       2629732.724 1241162.502   427.495    -37.8   -50.5   11.7     6.3   6.3   -4.4   19.9    2    1
+  6005418       2629832.946 1241009.850   426.917      0.9  -123.1 -193.3     6.2   6.2    1.7   19.9    2    1
+  629836241014  2629837.118 1241014.764   427.096      9.9  -106.2   64.8     6.2   6.2    0.2   19.9    2    1
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   3
+  ------------------------------------------------------------------------------------------------------------
+  PUNKT    TYP         Y           X         H         DY      DX      DH     MFA   MFB   AZI_A   MFH  MESSELEM.
+                       M           M         M         MM      MM      MM     MM    MM      G     MM   LAGE HOE.
+  6005393       2629871.025 1240971.331   426.987    -23.2     7.9   36.8     6.2   6.2    1.3   19.9    2    1
+  6005213       2629918.738 1240917.681   427.876     17.6    39.1  -44.3     6.2   6.2    5.1   19.9    2    1
+  6005419       2629901.064 1241051.049   426.431     -6.3   -19.3   20.8     6.3   6.3    1.3   19.9    2    1
+  6005411       2629968.901 1241086.571   426.716    -12.5   -19.4   25.7     6.3   6.3    4.7   19.9    2    1
+  6005443       2629930.459 1241119.449   426.906    -15.3   -44.5    7.7     6.3   6.3    0.3   19.9    2    1
+  6005442       2630001.829 1241147.946   426.822    -16.5   -29.6   35.7     6.3   6.3    1.7   19.9    2    1
+  6005296       2630102.066 1241115.301   426.562     46.2   -33.5  -28.3     6.4   6.4    5.4   19.9    2    1
+  6005258       2629849.694 1241086.048   427.109    -38.1   -42.4   48.8     6.3   6.3    0.4   19.9    2    1
+  6005436       2630067.702 1241174.256   426.679     -8.7   -13.7   -1.2     6.4   6.4    1.7   19.9    2    1
+  6005437       2630122.983 1241204.821   426.762     -7.8   -20.8   13.8     6.4   6.4    4.8   19.9    2    1
+  6005529       2629921.791 1240296.149   436.844     24.4    55.7   40.8     6.1   6.1   22.4   19.9    2    1
+  6005407       2629888.713 1240338.031   436.354     32.5    69.6   33.8     6.1   6.1   21.7   19.9    2    1
+  6005408       2629978.797 1240294.789   437.426     29.2    49.7   35.7     6.1   6.1   15.8   19.9    2    1
+  6005409       2630054.357 1240244.691   438.579     12.0    44.8   18.7     6.1   6.1   73.7   19.9    2    1
+  6005271       2629905.050 1240201.740   443.221     53.4    77.0   10.7     6.0   6.0   22.9   19.9    2    1
+  6005270       2629830.616 1240176.400   447.393     28.6    67.1  -17.3     6.0   6.0   50.0   19.9    2    1
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   4
+  ------------------------------------------------------------------------------------------------------------
+  AEUSSERE ZUVERLAESSIGKEIT UND MITTLERE FEHLERELLIPSEN A PRIORI
+  **************************************************************
+  PUNKT     TYP  TK     NA       NB  AZI(NA)   NH     NR.A  NR.B  NR.H    DY     DX     DH    MFA      MFB    AZI_A  MFH
+                        MM       MM      G     MM                         MM     MM     MM     MM       MM      G     MM
+  6005481        33  UNEND.** UNEND.  100.0 UNEND.**     3     4   190   27.0   16.2   23.8   11.2     11.2  100.0   20.1
+  6005195        33  UNEND.** UNEND.    0.0 UNEND.**     6     5   191   14.1   46.6    6.7   11.3     11.3   -9.1   20.1
+  6005391        33  UNEND.** UNEND.  100.0 UNEND.**     7     8   192   -3.0   21.4   54.7   11.3     11.3  -50.0   20.1
+  6005058        33  UNEND.** UNEND.    0.0 UNEND.**    10     9   193   10.1   64.5   -0.2   11.3     11.3   -6.9   20.1
+  6005511        33  UNEND.** UNEND.    0.0 UNEND.**    12    11   194   -6.8   21.3   25.8   11.3     11.3   -5.6   20.1
+  6005392        33  UNEND.** UNEND.    0.0 UNEND.**    14    13   195  -18.1   14.3   60.7   11.3     11.3   -1.9   20.1
+  6005458        33  UNEND.** UNEND.  100.0 UNEND.**    15    16   196   -3.2   26.4   35.8   11.3     11.3    1.9   20.1
+  6005544        33  UNEND.** UNEND.    0.0 UNEND.**    18    17   197   17.5   43.6   35.8   11.3     11.3    5.2   20.1
+  6005198        33  UNEND.** UNEND.  100.0 UNEND.**    19    20   198   27.6   22.7   -2.2   11.2     11.2   50.0   20.1
+  6005482        33  UNEND.** UNEND.  100.0 UNEND.**    21    22   199   25.8   30.9   10.7   11.2     11.2   50.0   20.1
+  6005387        33  UNEND.** UNEND.  100.0 UNEND.**    23    24   200   26.7   26.1   14.8   11.2     11.2   50.0   20.1
+  629486240165   33  UNEND.** UNEND.  100.0 UNEND.**    25    26   201   78.5   -9.8   64.8   11.2     11.2   15.6   20.1
+  6005201        33  UNEND.** UNEND.  100.0 UNEND.**    27    28   202   63.2   45.2  -12.2   11.2     11.2   50.0   20.1
+  6005200        33  UNEND.** UNEND.    0.0 UNEND.**    30    29   203   66.4   44.1   14.8   11.2     11.2   16.8   20.1
+  6005420        33  UNEND.** UNEND.  100.0 UNEND.**    31    32   204   49.3   41.0   52.7   11.2     11.2   20.0   20.1
+  6005421        33  UNEND.** UNEND.    0.0 UNEND.**    34    33   205   41.4   30.9   32.8   11.2     11.2    6.7   20.1
+  6005491        33  UNEND.** UNEND.  100.0 UNEND.**    35    36   206   33.4   62.7    0.8   11.3     11.3   50.0   20.1
+  6004039        33  UNEND.** UNEND.  100.0 UNEND.**    37    38   207   18.3   58.7   18.8   11.3     11.3   15.9   20.1
+  6005509        33  UNEND.** UNEND.    0.0 UNEND.**    40    39   208   23.2   72.9   -4.3   11.3     11.3   12.9   20.1
+  6005052        33  UNEND.** UNEND.    0.0 UNEND.**    42    41   209   55.1  112.0   10.7   11.3     11.3   13.8   20.1
+  6005405        33  UNEND.** UNEND.    0.0 UNEND.**    44    43   210   51.9   88.2  -28.2   11.3     11.3   18.7   20.1
+  6005269        33  UNEND.** UNEND.  100.0 UNEND.**    45    46   211   69.8  113.2    9.7   11.3     11.3   20.6   20.1
+  6005438        33  UNEND.** UNEND.  100.0 UNEND.**    47    48   212   32.9   80.0  -12.2   11.3     11.3   29.2   20.1
+  6005469        33  UNEND.** UNEND.    0.0 UNEND.**    50    49   213   56.8   60.9   -1.3   11.3     11.3   27.3   20.1
+  6005515        33  UNEND.** UNEND.    0.0 UNEND.**    52    51   214   36.9   74.8   -0.3   11.3     11.3    8.8   20.1
+  6005514        33  UNEND.** UNEND.  100.0 UNEND.**    53    54   215   52.0   61.9   15.7   11.3     11.3   50.0   20.1
+  6005495        33  UNEND.** UNEND.  100.0 UNEND.**    55    56   216   33.8   55.7    5.7   11.3     11.3   83.5   20.1
+  6005494        33  UNEND.** UNEND.    0.0 UNEND.**    58    57   217   23.9   66.6   19.8   11.3     11.3   14.2   20.1
+  6005456        33  UNEND.** UNEND.    0.0 UNEND.**    60    59   218   24.0   79.5   68.8   11.3     11.3   12.6   20.1
+  6005512        33  UNEND.** UNEND.  100.0 UNEND.**    61    62   219   38.1   44.7   33.8   11.3     11.3   50.0   20.1
+  6004038        33  UNEND.** UNEND.  100.0 UNEND.**    63    64   220   35.2   51.8   31.7   11.3     11.3   21.0   20.1
+  6005480        33  UNEND.** UNEND.  100.0 UNEND.**    65    66   221   20.4   57.4   44.8   11.3     11.3   13.2   20.1
+  6005454        33  UNEND.** UNEND.    0.0 UNEND.**    68    67   222   62.3   59.3   60.8   11.3     11.3    3.2   20.1
+  6005455        33  UNEND.** UNEND.  100.0 UNEND.**    69    70   223   25.1   80.4   51.7   11.3     11.3   50.0   20.1
+  6005406        33  UNEND.** UNEND.    0.0 UNEND.**    72    71   224   22.9   56.4    0.7   11.3     11.3   14.1   20.1
+  6005404        33  UNEND.** UNEND.    0.0 UNEND.**    74    73   225   35.0   86.3   36.8   11.3     11.3   10.7   20.1
+  6005403        33  UNEND.** UNEND.    0.0 UNEND.**    76    75   226   30.2   65.2   39.8   11.4     11.4    8.5   20.1
+  6005206        33  UNEND.** UNEND.    0.0 UNEND.**    78    77   227   30.0   71.0    3.7   11.4     11.4    3.1   20.1
+  6005516        33  UNEND.** UNEND.  100.0 UNEND.**    79    80   228    2.7   31.7   14.8   11.5     11.5   12.0   20.1
+  6005441        33  UNEND.** UNEND.    0.0 UNEND.**    82    81   229   14.9   22.6    5.8   11.5     11.5    3.0   20.1
+  629796240739   33  UNEND.** UNEND.    0.0 UNEND.**    84    83   230   60.9   -4.4   64.8   11.5     11.5    4.1   20.1
+  629786240746   33  UNEND.** UNEND.    0.0 UNEND.**    86    85   231   44.9  -24.4   64.8   11.5     11.5    4.3   20.1
+  629783240742   33  UNEND.** UNEND.  100.0 UNEND.**    87    88   232   41.9    8.6   64.8   11.5     11.5    7.6   20.1
+  629744240761   33  UNEND.** UNEND.    0.0 UNEND.**    90    89   233  -23.0    5.5   64.8   11.5     11.5    2.7   20.1
+  6005038        33  UNEND.** UNEND.  100.0 UNEND.**    91    92   234    9.0   21.6   19.8   11.5     11.5   50.0   20.1
+  629741240760   33  UNEND.** UNEND.  100.0 UNEND.**    93    94   235    0.0   15.6   64.8   11.5     11.5    5.4   20.1
+  6005346        33  UNEND.** UNEND.  100.0 UNEND.**    95    96   236   -2.9   28.7  -67.3   11.5     11.5    6.3   20.1
+  629642240744   33  UNEND.** UNEND.    0.0 UNEND.**    98    97   237   -7.7   27.6   64.8   11.5     11.5    1.1   20.1
+  6005341        33  UNEND.** UNEND.    0.0 UNEND.**   100    99   238   14.5   41.2   -7.2   11.3     11.3    1.7   20.1
+  6005288        33  UNEND.** UNEND.  100.0 UNEND.**   101   102   239   11.6   23.2   28.8   11.3     11.3   50.0   20.1
+  6005342        33  UNEND.** UNEND.  100.0 UNEND.**   103   104   240   68.4   44.2   64.8   11.3     11.3   50.0   20.1
+  6005390        33  UNEND.** UNEND.  100.0 UNEND.**   109   110   243   -5.3   26.9   23.8   11.4     11.4  -50.0   20.1
+  629452240636   33  UNEND.** UNEND.  100.0 UNEND.**   111   112   244   -9.2   15.0   64.8   11.4     11.4   -3.9   20.1
+  6005508        33  UNEND.** UNEND.    0.0 UNEND.**   114   113   245  -32.4   45.3  -61.2   11.5     11.5   -4.4   20.1
+  6005034        33  UNEND.** UNEND.  100.0 UNEND.**   115   116   246  -24.3   15.3 -137.3   11.5     11.5  -50.0   20.1
+  6005386        33  UNEND.** UNEND.    0.0 UNEND.**   118   117   247  -27.7   18.4   20.8   11.5     11.5   -0.9   20.1
+  6005395        33  UNEND.** UNEND.  100.0 UNEND.**   119   120   248  -15.8   26.5   48.8   11.5     11.5    1.9   20.1
+  6005396        33  UNEND.** UNEND.    0.0 UNEND.**   122   121   249  -13.9   31.3   41.8   11.6     11.6    1.2   20.1
+  6005394        33  UNEND.** UNEND.    0.0 UNEND.**   124   123   250  -32.0    8.2   20.8   11.6     11.6    1.3   20.1
+  6005457        33  UNEND.** UNEND.    0.0 UNEND.**   126   125   251  -39.0    9.9  122.8   11.7     11.7   -0.3   20.1
+  6005422        33  UNEND.** UNEND.    0.0 UNEND.**   128   127   252  -32.9   30.1  123.8   11.6     11.6    0.9   20.1
+  629741240940   33  UNEND.** UNEND.    0.0 UNEND.**   130   129   253  -22.9   22.1   64.8   11.6     11.6    0.2   20.1
+  6005545        33  UNEND.** UNEND.  100.0 UNEND.**   131   132   254  -24.6   17.2   45.8   11.6     11.6   -3.3   20.1
+  629636240919   33  UNEND.** UNEND.  100.0 UNEND.**   133   134   255  -25.6   -2.8   64.8   11.6     11.6   -3.3   20.1
+  6005388        33  UNEND.** UNEND.  100.0 UNEND.**   135   136   256  -48.9  -12.1   63.8   11.7     11.7   -0.5   20.1
+  6005031        33  UNEND.** UNEND.    0.0 UNEND.**   138   137   257  -47.6  -27.3    6.7   11.7     11.7   -3.7   20.1
+  629638241166   33  UNEND.** UNEND.    0.0 UNEND.**   140   139   258  -23.5  -50.5   64.8   11.8     11.8   -5.6   20.1
+  629796241078   33  UNEND.** UNEND.    0.0 UNEND.**   142   141   259  -42.0  -18.3   64.8   11.8     11.8   -0.8   20.1
+  6005499        33  UNEND.** UNEND.  100.0 UNEND.**   143   144   260  -50.9  -45.4   18.7   11.8     11.8   -7.5   20.1
+  629744241157   33  UNEND.** UNEND.  100.0 UNEND.**   145   146   261  -52.8  -62.5   64.8   11.8     11.8   -5.8   20.1
+  629736241161   33  UNEND.** UNEND.    0.0 UNEND.**   148   147   262  -22.8  -59.5   64.8   11.8     11.8   -4.6   20.1
+  6005500        33  UNEND.** UNEND.    0.0 UNEND.**   150   149   263  -37.8  -50.5   11.7   11.8     11.8   -4.4   20.1
+  6005418        33  UNEND.** UNEND.  100.0 UNEND.**   151   152   264    0.9 -123.1 -193.3   11.7     11.7    1.7   20.1
+  629836241014   33  UNEND.** UNEND.    0.0 UNEND.**   154   153   265    9.9 -106.2   64.8   11.7     11.7    0.2   20.1
+  6005393        33  UNEND.** UNEND.  100.0 UNEND.**   155   156   266  -23.2    7.9   36.8   11.7     11.7    1.3   20.1
+  6005213        33  UNEND.** UNEND.    0.0 UNEND.**   158   157   267   17.6   39.1  -44.3   11.7     11.7    5.1   20.1
+  6005419        33  UNEND.** UNEND.    0.0 UNEND.**   160   159   268   -6.3  -19.3   20.8   11.8     11.8    1.3   20.1
+  6005411        33  UNEND.** UNEND.  100.0 UNEND.**   161   162   269  -12.5  -19.4   25.7   11.8     11.8    4.7   20.1
+  6005443        33  UNEND.** UNEND.    0.0 UNEND.**   164   163   270  -15.3  -44.5    7.7   11.8     11.8    0.3   20.1
+  6005442        33  UNEND.** UNEND.  100.0 UNEND.**   165   166   271  -16.5  -29.6   35.7   11.9     11.9    1.7   20.1
+  6005296        33  UNEND.** UNEND.    0.0 UNEND.**   168   167   272   46.2  -33.5  -28.3   11.9     11.9    5.4   20.1
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   5
+  ------------------------------------------------------------------------------------------------------------
+  PUNKT     TYP  TK     NA       NB  AZI(NA)   NH     NR.A  NR.B  NR.H    DY     DX     DH    MFA      MFB    AZI_A  MFH
+                        MM       MM      G     MM                         MM     MM     MM     MM       MM      G     MM
+  6005258        33  UNEND.** UNEND.    0.0 UNEND.**   170   169   273  -38.1  -42.4   48.8   11.8     11.8    0.4   20.1
+  6005436        33  UNEND.** UNEND.    0.0 UNEND.**   172   171   274   -8.7  -13.7   -1.2   12.0     12.0    1.7   20.1
+  6005437        33  UNEND.** UNEND.  100.0 UNEND.**   173   174   275   -7.8  -20.8   13.8   12.0     12.0    4.8   20.1
+  6005529        33  UNEND.** UNEND.  100.0 UNEND.**   175   176   276   24.4   55.7   40.8   11.4     11.4   22.4   20.1
+  6005407        33  UNEND.** UNEND.    0.0 UNEND.**   178   177   277   32.5   69.6   33.8   11.4     11.4   21.7   20.1
+  6005408        33  UNEND.** UNEND.    0.0 UNEND.**   180   179   278   29.2   49.7   35.7   11.4     11.4   15.8   20.1
+  6005409        33  UNEND.** UNEND.  100.0 UNEND.**   181   182   279   12.0   44.8   18.7   11.5     11.5   73.7   20.1
+  6005271        33  UNEND.** UNEND.    0.0 UNEND.**   184   183   280   53.4   77.0   10.7   11.4     11.4   22.9   20.1
+  6005270        33  UNEND.** UNEND.  100.0 UNEND.**   185   186   281   28.6   67.1  -17.3   11.3     11.3   50.0   20.1
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE   1
+  ------------------------------------------------------------------------------------------------------------
+  LFP3 / GP                                                                     
+  Passpunkte Gunzgen fuer lokale Entzerrung                                     
+ 
+                            LAGE     HOEHE
+  M. FEHLERQUOT. TOTAL:                                 FILENAMEN:
+  OHNE RUNDUNG (Q^)          0.53      0.99             ----------
+  SCHLUSSKONTROLLE           0.53      0.99             EINGABEFILE: gunzgen_agi_z.ste
+  WAHRSCH. DASS Q </< Q^:   11.1%**   60.0%             K-FILE(NEU): gunzgen_agi.koo
+  ANZAHL BEOBACHTUNGEN      188        94               M-FILE(NEU): gunzgen_agi.mes
+  ANZAHL UNBEKANNTEN        184        91
+  UEBERBESTIMMUNGEN           4         3               DRUCKERFILE: gunzgen_agi_z.prn
+  SIGNIFIKANTE STELLEN       2.8       3.2              KOORD.-FILE: gunzgen_agi_z.res
+  MAX. M. KOORD. FEHLER    6.4 MM   19.9 MM             PLOT-FILE:   gunzgen_agi_z.ipl
+  ITERATIONEN (MAX.)       2 ( 3)    2 ( 3)             A_MATRIX:    (NICHT VORGESEHEN)
+  MAX. AEND. LETZTE IT.    0.0 MM    0.0 MM
+  ABBRUCHSCHRANKE         20.0 MM   20.0 MM             USERNAME:    stefan
+  GRENZWERT ROB. AUSGL.   N. ROB.   N. ROB.
+  RECHENZEIT                 0.2 SEK. (CPU)
+  Y,X,H NACH RUNDUNG           4 DEZ.
+  ANZAHL STATIONEN             2
+  BEOBACHTUNGSZEILEN         282
+ 
+  MITTLERE FEHLER DER BEOBACHTUNGSGRUPPEN:          GR  ANZ  A PRIORI   SCHLUSS   QUOT.  REDUND.
+  KOORDINATEN (GPS)     :                               188   10.0 MM    5.3 MM   0.53    4.000
+  HOEHEN       (GPS)   :                                 94   18.0 MM   17.8 MM   0.99    3.000
+ 
+  LAGE - NEUPUNKTE:   ANZAHL =  90
+  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>
+  --------------------------------------------------------------------------------------------------------------
+  6005481         6005195         6005391         6005058         6005511         6005392         6005458       
+  6005544         6005198         6005482         6005387         629486240165    6005201         6005200       
+  6005420         6005421         6005491         6004039         6005509         6005052         6005405       
+  6005269         6005438         6005469         6005515         6005514         6005495         6005494       
+  6005456         6005512         6004038         6005480         6005454         6005455         6005406       
+  6005404         6005403         6005206         6005516         6005441         629796240739    629786240746  
+  629783240742    629744240761    6005038         629741240760    6005346         629642240744    6005341       
+  6005288         6005342         6005390         629452240636    6005508         6005034         6005386       
+  6005395         6005396         6005394         6005457         6005422         629741240940    6005545       
+  629636240919    6005388         6005031         629638241166    629796241078    6005499         629744241157  
+  629736241161    6005500         6005418         629836241014    6005393         6005213         6005419       
+  6005411         6005443         6005442         6005296         6005258         6005436         6005437       
+  6005529         6005407         6005408         6005409         6005271         6005270       
+ 
+  HOEHEN-NEUPUNKTE:   ANZAHL =  90
+  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>  < NAME    TYP>
+  --------------------------------------------------------------------------------------------------------------
+  6005481         6005195         6005391         6005058         6005511         6005392         6005458       
+  6005544         6005198         6005482         6005387         629486240165    6005201         6005200       
+  6005420         6005421         6005491         6004039         6005509         6005052         6005405       
+  6005269         6005438         6005469         6005515         6005514         6005495         6005494       
+  6005456         6005512         6004038         6005480         6005454         6005455         6005406       
+  6005404         6005403         6005206         6005516         6005441         629796240739    629786240746  
+  629783240742    629744240761    6005038         629741240760    6005346         629642240744    6005341       
+  6005288         6005342         6005390         629452240636    6005508         6005034         6005386       
+  6005395         6005396         6005394         6005457         6005422         629741240940    6005545       
+  629636240919    6005388         6005031         629638241166    629796241078    6005499         629744241157  
+  629736241161    6005500         6005418         629836241014    6005393         6005213         6005419       
+  6005411         6005443         6005442         6005296         6005258         6005436         6005437       
+  6005529         6005407         6005408         6005409         6005271         6005270       
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  12
+  ------------------------------------------------------------------------------------------------------------
+  STATISTIK / AV93-TESTS
+  **********************
+ 
+    90   NA   AUSSER TOLERANZ, DAVON (  90) UNENDLICH            0   MFA   AUSSER TOLERANZ
+    90   NH   AUSSER TOLERANZ, DAVON (  90) UNENDLICH            0   MFH   AUSSER TOLERANZ
+ 
+  GROESSTE TOLERANZ-UEBERSCHREITUNGEN AV93 (ZUVERLAESSIGKEIT / GENAUIGKEIT)
+  *************************************************************************
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  13
+  ------------------------------------------------------------------------------------------------------------
+  VOLLSTAENDIGES KOORDINATEN- UND HOEHEN-VERZEICHNIS                                                                                 
+  **************************************************                                -------  A V 9 3  -------                        
+  PUNKT    TYP   TK        Y           X         H    GEOIDHOEHE     ETA     XI     ZUVERLAESS.   GENAUIGKEIT 
+                           M           M         M         M         CC      CC     LAGE  HOEHE   LAGE  HOEHE   
+  NULLBERN          2600000.000 1200000.000     0.000     0.000      0.0     0.0
+  PLOT           33 2595000.000 1216000.000     0.000     0.000      0.0     0.0
+  PLOT           33 2627000.000 1240000.000     0.000     0.000      0.0     0.0
+  11083500       33 2627144.248 1239766.650   435.140     0.000      0.0     0.0
+  11085480       33 2630908.873 1240356.931   450.910     0.000      0.0     0.0
+  11084590       33 2629739.370 1238666.897   428.440     0.000      0.0     0.0
+  11084040       33 2629290.595 1241230.229   427.700     0.000      0.0     0.0
+  6005481        33 2629303.523 1240218.300   436.157     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005195        33 2629298.115 1240419.886   431.627     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005391        33 2629325.220 1240515.175   430.255     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005058        33 2629283.801 1240470.515   429.590     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005511        33 2629270.701 1240560.019   429.271     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005392        33 2629369.860 1240515.404   430.741     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005458        33 2629423.980 1240476.301   433.120     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005544        33 2629497.873 1240396.129   434.834     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005198        33 2629467.358 1240359.770   435.098     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005482        33 2629385.269 1240293.074   435.267     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005387        33 2629431.346 1240229.822   438.815     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629486240165   33 2629487.017 1240166.085   440.444     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005201        33 2629583.841 1240151.119   441.498     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005200        33 2629529.955 1240202.709   442.115     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005420        33 2629559.416 1240245.893   441.013     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005421        33 2629525.990 1240287.990   439.393     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005491        33 2629542.481 1240346.325   437.386     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6004039        33 2629566.302 1240365.497   438.133     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005509        33 2629617.323 1240269.379   441.513     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005052        33 2629649.693 1240226.677   444.181     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005405        33 2629717.850 1240162.530   445.022     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005269        33 2629753.787 1240141.876   445.040     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005438        33 2629724.818 1240205.596   446.251     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005469        33 2629758.519 1240271.766   443.992     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005515        33 2629724.572 1240294.924   443.141     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005514        33 2629685.661 1240257.689   444.216     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005495        33 2629773.532 1240341.080   437.984     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005494        33 2629743.600 1240377.145   435.847     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005456        33 2629715.757 1240392.829   435.385     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005512        33 2629656.778 1240351.450   438.830     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6004038        33 2629610.773 1240313.657   440.558     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005480        33 2629572.246 1240456.416   433.708     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005454        33 2629615.416 1240494.627   433.081     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005455        33 2629668.311 1240445.506   434.007     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005406        33 2629754.938 1240430.099   434.541     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005404        33 2629707.115 1240477.896   434.347     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005403        33 2629660.587 1240535.059   432.490     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005206        33 2629731.340 1240595.440   432.344     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005516        33 2629853.757 1240696.654   434.956     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005441        33 2629799.132 1240737.871   434.256     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629796240739   33 2629796.990 1240740.221   434.233     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629786240746   33 2629787.236 1240747.033   434.139     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629783240742   33 2629784.071 1240742.596   434.135     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629744240761   33 2629745.258 1240762.077   433.512     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005038        33 2629745.500 1240761.103   433.530     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629741240760   33 2629741.951 1240760.857   433.386     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005346        33 2629701.127 1240702.790   435.273     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629642240744   33 2629643.463 1240745.159   430.109     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005341        33 2629530.106 1240565.251   432.583     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005288        33 2629493.173 1240541.182   432.569     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005342        33 2629579.548 1240543.283   431.874     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005390        33 2629487.410 1240668.706   428.754     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629452240636   33 2629452.638 1240636.990   429.671     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005508        33 2629531.548 1240867.114   428.079     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005034        33 2629496.568 1240891.169   428.053     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005386        33 2629651.303 1240837.801   428.381     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005395        33 2629695.208 1240804.448   430.739     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005396        33 2629729.368 1240850.772   430.142     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005394        33 2629778.028 1240902.483   427.641     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005457        33 2629785.566 1240984.565   426.715     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005422        33 2629741.522 1240946.446   427.134     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629741240940   33 2629741.668 1240940.698   427.294     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005545        33 2629636.113 1240921.126   427.916     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629636240919   33 2629637.456 1240919.741   427.970     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005388        33 2629743.866 1241019.893   427.547     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005031        33 2629659.485 1241105.337   427.937     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629638241166   33 2629638.469 1241166.553   427.435     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629796241078   33 2629796.630 1241079.153   427.302     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005499        33 2629768.786 1241131.181   427.276     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629744241157   33 2629745.329 1241157.668   427.385     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629736241161   33 2629736.679 1241161.931   427.503     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005500        33 2629732.724 1241162.502   427.495     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005418        33 2629832.946 1241009.850   426.917     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  629836241014   33 2629837.118 1241014.764   427.096     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005393        33 2629871.025 1240971.331   426.987     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005213        33 2629918.738 1240917.681   427.876     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  14
+  ------------------------------------------------------------------------------------------------------------
+  PUNKT    TYP   TK        Y           X         H    GEOIDHOEHE     ETA     XI     ZUVERLAESS.   GENAUIGKEIT
+                           M           M         M         M         CC      CC     LAGE  HOEHE   LAGE  HOEHE
+  6005419        33 2629901.064 1241051.049   426.431     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005411        33 2629968.901 1241086.571   426.716     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005443        33 2629930.459 1241119.449   426.906     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005442        33 2630001.829 1241147.946   426.822     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005296        33 2630102.066 1241115.301   426.562     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005258        33 2629849.694 1241086.048   427.109     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005436        33 2630067.702 1241174.256   426.679     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005437        33 2630122.983 1241204.821   426.762     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005529        33 2629921.791 1240296.149   436.844     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005407        33 2629888.713 1240338.031   436.354     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005408        33 2629978.797 1240294.789   437.426     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005409        33 2630054.357 1240244.691   438.579     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005271        33 2629905.050 1240201.740   443.221     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  6005270        33 2629830.616 1240176.400   447.393     0.000      0.0     0.0    NEIN  NEIN     JA    JA
+  BA FUER LANDESTOPOGRAPHIE    TITEL: LFP3 / GP                                   WABERN, DEN 12.12.2015 17:42
+  TRIANGULATIONSPROGRAMM LTOP  VERS.: 98.5.1 (AF) - IBM-PC(LF-2500)     OPT: VERM.FIXPUNKTE 4. ORD.  SEITE  15
+  ------------------------------------------------------------------------------------------------------------
+  VERWENDETE STEUERPARAMETER (KA=01 BIS 20)                                                                                          
+  **************************                                                                                                         
+           1       .  2         .3         4 .        5         .6     .    7    .     .8
+  12345678901234567.890123456789.012345678901.234567890123456789.012345.678901234.56789.0
+  01              4.          20.0000        .                  .      .         .     .
+  01KOORD         0.          20.0000      25.0000            10.000018.0000     .     .
+  01KAT           3.           3.            .                  .      .         .     .
+  02              3.            .            .                  .      .         .     .
+  03              3.            .            .                  .      .         .     .
+  04             20.0000        .            .                  .      .         .     .
+  05             20.0000        .            .                  .      .         .     .
+  06GPS        SE1 .           1.           1.                 1.     1     1   -.    -.                                             
+  06GPS        SE2 .           +.           +.                 +.     +     +   -.    -.                                             
+  06GPS        SESS.IO1        +.           +.                 0.     0     +   0.    0.                                             
+  06GPS        SESS.IO2        +.           +.                 0.     0     +   0.    0.                                             
+  06GPS        SESS.IO3        +.           +.                 0.     0     +   0.    0.                                             
+  06GPS        SESS.IO4        +.           +.                 0.     0     +   0.    0.                                             
+  07              7.0000       2.0000        .                  .      .         .     .
+  08              5.0000       0.           5.0000    EDM      0.0000  .         .     .
+  09             14.0000      28.0000        .                  .      .         .     .
+  10             10.0000        .            .                  .      .         .     .
+  11              3.2000      10.0000        .                  .      .         .     .
+  12              0.1300       0.0600        .                  .      .         .     .
+  13              1.7320      16.6972       2.                  .      .         .     .
+  14              2.           2.           0.                 1.     1.         .     .
+  14PLOT          1.       25000.0000       0.0000             1.     0.0000    1.0   0.0
+  15              0.           0.            .                  .      .         .     .
+  16              0.            .            .                  .      .         .     .
+  17              4.           0.           0.                88.      .         .     .
+  17ELLIPSOI      0.     6377397.1550 6674372.2310              .      .         .     .
+  17ROBUST        0.0000       0.0000        .                  .      .         .     .
+  18             25.0000       3.5000       5.0000            25.0000 3.5000    5.0  20.0
+  18FIAB          2.           1.0000        .                  .      .         .     .
+  20NULLBERN2600000.0000 1200000.0000       0.0000              .      .         .     .
+  12345678901234567.890123456789.012345678901.234567890123456789.012345.678901234.56789.0
+           1       .  2         .3         4 .        5         .6     .    7    .     .8
