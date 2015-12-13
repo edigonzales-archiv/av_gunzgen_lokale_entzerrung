@@ -28,5 +28,37 @@ GUNZGEN_TS3_151210.lqp (SLSE4)
 * `6005522` gelöscht, da doppelt gemessen.
 * `GS0002` gelöscht.
 
-gunzgen151211_R8s.txt (SLSE4)
+gunzgen151211_R8s.txt (SLSE5)
 -----------------------------
+* Einige Punkte in der Ausgleichung eliminiert. Scheinen die Punkte an der Gohlstrasse (Waldrand) zu sein.
+
+2014-02-20 (SLSE6)
+------------------
+* ....
+
+2014-02-27 (SLSE7)
+------------------
+* ....
+
+2014-03-05 (SLSE8)
+------------------
+* Einige Doppelmessungen am gleichen Tag. Alle auf wenige Millimeter gleich. -> Eine Messung gelöscht.
+
+2014-03-05 (SLSE8)
+------------------
+* `629544240349` doppelt in der gleichen Session. -> löschen.
+
+2014-07-09 (SLSE9)
+------------------
+* `6005269` und `6005270` wieder gemessen. -> Eliminieren, aber prüfen wie gut die mit den anderen (eliminierten) übereinstimmen.
+* `6005397`: eine Messung war auch bereits elimiert. -> zuerst mal alles eliminieren. (Raststätte, Waldrand)
+* `6005271` nur in Session SE2 eliminiert -> Prüfen.
+
+TODO
+====
+
+* Sind die Session genügend miteinander verknüpft?
+* Die 2014er aus den Kontrollmessungen haben nie 4 TSP-Messungen, daher müssen sie über die Neupunkt genügend verknüpft sein.
+* Was machen mit 1-fach-Messungen? Löschen.
+* Herbie fertig messen lassen.
+* Visuell überprüfen: Was ist bereits tiptop.
