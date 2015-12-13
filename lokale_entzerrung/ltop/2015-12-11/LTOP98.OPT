@@ -1,0 +1,72 @@
+LANGUAGE            GER                                                                                                         
+STEUERFILE                                                                                                                      
+FILE_KOO            ltop.koo                                                                                                    
+FILE_MES            ltop.mes                                                                                                    
+FILE_PRT            ltop.prn                                                                                                    
+FILE_PUN            ltop.res                                                                                                    
+FILE_IPL            ltop.ipl                                                                                                    
+KA00-1                                                                                                                          
+KA00-2                                                                                                                          
+KA01-1              4                                                                                                           
+KA01-2                3.0                                                                                                       
+KA01KAT             0  0                                                                                                        
+KA01KOORD-1            N    N                                                                                                   
+KA01KOORD-2         30.0 30.0                                                                                                   
+KA01KOORD-3          5.0 10.0                                                                                                   
+KA01KOORD-4                                                                                                                     
+KA02-03                1    1                                                                                                   
+KA04-05             20.0 20.0                                                                                                   
+KA06-1              0 0  2.0  300.0    0.0  MESSBAND                                                                            
+KA06-2              0 0  1.0   10.0 2500.0  2M-BASIS                                                                            
+KA06-3              0 0  5.0    5.0    0.0  EDM                                                                                 
+KA06GPS-01          ANF.     1  1  1  1  1  1  1                                                                                
+KA06GPS-02          FORT     +  +  =  =  +  =  =                                                                                
+KA07-1                7.0                                                                                                       
+KA07-2                2.0                                                                                                       
+KA08-1                   5.0    5.0    0.0  EDM                                                                                 
+KA08-2              NO                                                                                                          
+KA09-1               14.0                                                                                                       
+KA09-2               28.0                                                                                                       
+KA10                 10.0                                                                                                       
+KA11-1                3.2                                                                                                       
+KA11-2               10.0                                                                                                       
+KA12                 0.130 0.06                                                                                                 
+KA13-1               1.732                                                                                                      
+KA13-2                0.0                                                                                                       
+KA13-3              G                                                                                                           
+KA14-1              N                                                                                                           
+KA14-2                                                                                                                          
+KA14-3              0                                                                                                           
+KA14-4              NO                                                                                                          
+KA14-5              NO                                                                                                          
+KA14-6              NO                                                                                                          
+KA14PLOT-1             N    N                                                                                                   
+KA14PLOT-2                                                                                                                      
+KA14PLOT-3          0.0                                                                                                         
+KA14PLOT-4          NO                                                                                                          
+KA14PLOT-5                                                                                                                      
+KA14PLOT-6                                                                                                                      
+KA14PLOT-7          0.0                                                                                                         
+KA15-1              NO                                                                                                          
+KA15-2              NO                                                                                                          
+KA15-3              NO                                                                                                          
+KA16                   N    N                                                                                                   
+KA17-1              4                                                                                                           
+KA17-2                 N    N                                                                                                   
+KA17-3              D                                                                                                           
+KA17-4              62                                                                                                          
+KA17ELLIPSOI-1      CH                                                                                                          
+KA17ELLIPSOI-2      6377397.1550   0.006674372231                                                                               
+KA17ROBUST           2.5  2.5                                                                                                   
+KA18-2               3.5  3.5                                                                                                   
+KA18-3              20.0                                                                                                        
+KA18-4               5.0  5.0                                                                                                   
+KA18FIAB-1          A                                                                                                           
+KA18FIAB-2                                                                                                                      
+KA20-1              NULLBERN                                                                                                    
+KA20-2              600000. 200000. 0.                                                                                          
+KA30-35                N    N                                                                                                   
+TEXT1               LAGE HOEHE                                                                                                  
+TEXT1F              PLAN. ALT.                                                                                                  
+TEXT2               AD MS  a     b      c   GERAET                                                                              
+TEXT2F              AD EC  a     b      c   Instr.                                                                              

@@ -27,3 +27,6 @@ GUNZGEN_TS3_151210.lqp (SLSE4)
 ------------------------------
 * `6005522` gelöscht, da doppelt gemessen.
 * `GS0002` gelöscht.
+
+gunzgen151211_R8s.txt (SLSE4)
+-----------------------------
